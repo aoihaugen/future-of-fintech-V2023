@@ -1,0 +1,36 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model electricUserData {
+  id      Int      @id @default(autoincrement())
+  usersession Int
+  from DateTime @db.Timestamptz()
+  to  DateTime @db.Timestamptz()
+  consumption Decimal
+}
+
+model electricalDeals {
+  id Int @id @default(autoincrement())
+  company String
+  product String
+  monthlyFee Decimal
+  spotAddon Decimal
+}
+
+model spottPrices {
+  datetime DateTime @id
+  no1 Decimal
+  no2 Decimal
+  no3 Decimal
+  no4 Decimal
+  no5 Decimal
+}
