@@ -26,7 +26,7 @@ function IndexInfo() {
       <p>Andre mulighet er å laste opp egen data som du henter fra <a href="https://elhub.no/">elhub.no</a> </p>
       <p>Hvis du ønsker å hente egen data gjør følgende:</p>
       <ol>
-        <li>Logg inn på min side på <a href="www.elhub.no">elhub.no</a></li>
+        <li>Logg inn på min side på <a href="https://elhub.no">elhub.no</a></li>
         <li>Gå inn på måleren du ønsker å hente data fra.</li>
         <li>Last ned brukerdata for perioden 01.01.2023 til 31.01.2023 som CSV fil.</li>
         <li>Last opp CSV filen i boksen under og trykk på kanppen som sier Gå videre til sammenlinging.</li>
@@ -34,7 +34,7 @@ function IndexInfo() {
         <br />
 
       </ol>
-
+  
     </div>
   )
 }
