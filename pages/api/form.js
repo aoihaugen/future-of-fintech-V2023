@@ -11,7 +11,8 @@ export default function handler(req, res) {
     }
     // Get data submitted in request's body.
     let data = req.body
-    let myId = parseInt(req.headers['myid']);
+    let myId = parseInt(req.cookies.id);
+    //let myId = parseInt(req.headers['myid']);
     // console.log(req.headers['myid'])
     // console.log(req.headers)
     // Optional logging to see the responses
@@ -51,8 +52,6 @@ async function dataTilSky(browserid, data) {
             usersession: browserid,
         }
     }); 
-
-    console.log(numberOfEnties)
     if (numberOfEnties > 0) {
         console.log("Bruker har allerede data i databasen")
     } else {
