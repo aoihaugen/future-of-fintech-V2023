@@ -7,13 +7,12 @@ import Link from "next/link";
 
 //This is the main function for this component.
 //This component gives the user information about how to proceed and 
-export function PowerUsageForm() {
-const [isuploaded, setIsuploaded] = useState("Filen er ikke lastet opp, men du kan gå videre hvis du ønsker å benytte test data. (vent litt hvis du har forsøkt å laste opp)");
+export function PowerUsageForm() { 
+    const [isuploaded, setIsuploaded] = useState("Filen er ikke lastet opp, men du kan gå videre hvis du ønsker å benytte test data. (vent litt hvis du har forsøkt å laste opp)");  
     const changeHandler = (event) => {
         var url = "api/form";
-        let id = giveId()
-        
-        
+        let id =  giveId()     
+
         // Passing file data (event.target.files[0]) to parse using Papa.parse
         Papa.parse(event.target.files[0], {
             delimiter: ",",
@@ -43,8 +42,6 @@ const [isuploaded, setIsuploaded] = useState("Filen er ikke lastet opp, men du k
         });
     };
 
-
-
     return (
         <div className={styles.container} >
             <input
@@ -62,8 +59,8 @@ const [isuploaded, setIsuploaded] = useState("Filen er ikke lastet opp, men du k
     );
 }
 
-//Gives the user an id.
-//this is not a good id, and can in some cases give collision.
+// Gives the user an id.
+// this is not a good id, and can in some cases give collision.
 function giveId() {
     let id = document.cookie
         .split('; ')
@@ -71,10 +68,9 @@ function giveId() {
         ?.split('=')[1];
     const d = new Date();
     let ms = d.getMilliseconds();
-    console.log(id)
     if (!id) {
         let idText = "id="+ms;
-        document.cookie=id;
+        document.cookie = idText;
         console.log('Satt ny id:' + idText)
         id = ms;
     }
