@@ -1,3002 +1,4466 @@
 [
   {
-    "from": "2022-12-17T20:00:00.000+01:00",
-    "to": "2022-12-17T21:00:00.000+01:00",
-    "consumption": 8.741,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-01 00:00",
+    "Til": "2023-01-01 01:00",
+    "KWH60Forbruk": 1.224,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-17T21:00:00.000+01:00",
-    "to": "2022-12-17T22:00:00.000+01:00",
-    "consumption": 8.281,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-01 01:00",
+    "Til": "2023-01-01 02:00",
+    "KWH60Forbruk": 1.173,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-17T22:00:00.000+01:00",
-    "to": "2022-12-17T23:00:00.000+01:00",
-    "consumption": 3.397,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-01 02:00",
+    "Til": "2023-01-01 03:00",
+    "KWH60Forbruk": 1.287,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-17T23:00:00.000+01:00",
-    "to": "2022-12-18T00:00:00.000+01:00",
-    "consumption": 2.779,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-01 03:00",
+    "Til": "2023-01-01 04:00",
+    "KWH60Forbruk": 1.146,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-18T00:00:00.000+01:00",
-    "to": "2022-12-18T01:00:00.000+01:00",
-    "consumption": 2.204,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-01 04:00",
+    "Til": "2023-01-01 05:00",
+    "KWH60Forbruk": 1.131,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-18T01:00:00.000+01:00",
-    "to": "2022-12-18T02:00:00.000+01:00",
-    "consumption": 4.555,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-01 05:00",
+    "Til": "2023-01-01 06:00",
+    "KWH60Forbruk": 1.325,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-18T02:00:00.000+01:00",
-    "to": "2022-12-18T03:00:00.000+01:00",
-    "consumption": 3.388,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-01 06:00",
+    "Til": "2023-01-01 07:00",
+    "KWH60Forbruk": 1.173,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-18T03:00:00.000+01:00",
-    "to": "2022-12-18T04:00:00.000+01:00",
-    "consumption": 4.179,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-01 07:00",
+    "Til": "2023-01-01 08:00",
+    "KWH60Forbruk": 1.242,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-18T04:00:00.000+01:00",
-    "to": "2022-12-18T05:00:00.000+01:00",
-    "consumption": 3.369,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-01 08:00",
+    "Til": "2023-01-01 09:00",
+    "KWH60Forbruk": 1.19,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-18T05:00:00.000+01:00",
-    "to": "2022-12-18T06:00:00.000+01:00",
-    "consumption": 10.594,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-01 09:00",
+    "Til": "2023-01-01 10:00",
+    "KWH60Forbruk": 1.191,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-18T06:00:00.000+01:00",
-    "to": "2022-12-18T07:00:00.000+01:00",
-    "consumption": 3.098,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-01 10:00",
+    "Til": "2023-01-01 11:00",
+    "KWH60Forbruk": 1.28,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-18T07:00:00.000+01:00",
-    "to": "2022-12-18T08:00:00.000+01:00",
-    "consumption": 3.535,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-01 11:00",
+    "Til": "2023-01-01 12:00",
+    "KWH60Forbruk": 1.142,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-18T08:00:00.000+01:00",
-    "to": "2022-12-18T09:00:00.000+01:00",
-    "consumption": 3.194,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-01 12:00",
+    "Til": "2023-01-01 13:00",
+    "KWH60Forbruk": 1.153,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-18T09:00:00.000+01:00",
-    "to": "2022-12-18T10:00:00.000+01:00",
-    "consumption": 3.043,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-01 13:00",
+    "Til": "2023-01-01 14:00",
+    "KWH60Forbruk": 1.282,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-18T10:00:00.000+01:00",
-    "to": "2022-12-18T11:00:00.000+01:00",
-    "consumption": 3.764,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-01 14:00",
+    "Til": "2023-01-01 15:00",
+    "KWH60Forbruk": 1.361,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-18T11:00:00.000+01:00",
-    "to": "2022-12-18T12:00:00.000+01:00",
-    "consumption": 4.726,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-01 15:00",
+    "Til": "2023-01-01 16:00",
+    "KWH60Forbruk": 1.366,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-18T12:00:00.000+01:00",
-    "to": "2022-12-18T13:00:00.000+01:00",
-    "consumption": 3.377,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-01 16:00",
+    "Til": "2023-01-01 17:00",
+    "KWH60Forbruk": 1.49,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-18T13:00:00.000+01:00",
-    "to": "2022-12-18T14:00:00.000+01:00",
-    "consumption": 2.359,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-01 17:00",
+    "Til": "2023-01-01 18:00",
+    "KWH60Forbruk": 1.649,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-18T14:00:00.000+01:00",
-    "to": "2022-12-18T15:00:00.000+01:00",
-    "consumption": 2.034,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-01 18:00",
+    "Til": "2023-01-01 19:00",
+    "KWH60Forbruk": 1.518,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-18T15:00:00.000+01:00",
-    "to": "2022-12-18T16:00:00.000+01:00",
-    "consumption": 1.309,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-01 19:00",
+    "Til": "2023-01-01 20:00",
+    "KWH60Forbruk": 1.442,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-18T16:00:00.000+01:00",
-    "to": "2022-12-18T17:00:00.000+01:00",
-    "consumption": 1.653,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-01 20:00",
+    "Til": "2023-01-01 21:00",
+    "KWH60Forbruk": 1.465,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-18T17:00:00.000+01:00",
-    "to": "2022-12-18T18:00:00.000+01:00",
-    "consumption": 1.433,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-01 21:00",
+    "Til": "2023-01-01 22:00",
+    "KWH60Forbruk": 1.013,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-18T18:00:00.000+01:00",
-    "to": "2022-12-18T19:00:00.000+01:00",
-    "consumption": 1.69,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-01 22:00",
+    "Til": "2023-01-01 23:00",
+    "KWH60Forbruk": 1.118,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-18T19:00:00.000+01:00",
-    "to": "2022-12-18T20:00:00.000+01:00",
-    "consumption": 2.101,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-01 23:00",
+    "Til": "2023-01-02 00:00",
+    "KWH60Forbruk": 0.807,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-18T20:00:00.000+01:00",
-    "to": "2022-12-18T21:00:00.000+01:00",
-    "consumption": 2.463,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-02 00:00",
+    "Til": "2023-01-02 01:00",
+    "KWH60Forbruk": 0.661,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-18T21:00:00.000+01:00",
-    "to": "2022-12-18T22:00:00.000+01:00",
-    "consumption": 2.396,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-02 01:00",
+    "Til": "2023-01-02 02:00",
+    "KWH60Forbruk": 0.697,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-18T22:00:00.000+01:00",
-    "to": "2022-12-18T23:00:00.000+01:00",
-    "consumption": 2.974,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-02 02:00",
+    "Til": "2023-01-02 03:00",
+    "KWH60Forbruk": 0.643,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-18T23:00:00.000+01:00",
-    "to": "2022-12-19T00:00:00.000+01:00",
-    "consumption": 1.94,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-02 03:00",
+    "Til": "2023-01-02 04:00",
+    "KWH60Forbruk": 0.704,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-19T00:00:00.000+01:00",
-    "to": "2022-12-19T01:00:00.000+01:00",
-    "consumption": 5.404,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-02 04:00",
+    "Til": "2023-01-02 05:00",
+    "KWH60Forbruk": 0.644,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-19T01:00:00.000+01:00",
-    "to": "2022-12-19T02:00:00.000+01:00",
-    "consumption": 2.836,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-02 05:00",
+    "Til": "2023-01-02 06:00",
+    "KWH60Forbruk": 0.682,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-19T02:00:00.000+01:00",
-    "to": "2022-12-19T03:00:00.000+01:00",
-    "consumption": 3.848,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-02 06:00",
+    "Til": "2023-01-02 07:00",
+    "KWH60Forbruk": 0.683,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-19T03:00:00.000+01:00",
-    "to": "2022-12-19T04:00:00.000+01:00",
-    "consumption": 3.116,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-02 07:00",
+    "Til": "2023-01-02 08:00",
+    "KWH60Forbruk": 0.651,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-19T04:00:00.000+01:00",
-    "to": "2022-12-19T05:00:00.000+01:00",
-    "consumption": 3.19,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-02 08:00",
+    "Til": "2023-01-02 09:00",
+    "KWH60Forbruk": 0.76,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-19T05:00:00.000+01:00",
-    "to": "2022-12-19T06:00:00.000+01:00",
-    "consumption": 3.024,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-02 09:00",
+    "Til": "2023-01-02 10:00",
+    "KWH60Forbruk": 0.739,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-19T06:00:00.000+01:00",
-    "to": "2022-12-19T07:00:00.000+01:00",
-    "consumption": 3.172,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-02 10:00",
+    "Til": "2023-01-02 11:00",
+    "KWH60Forbruk": 0.832,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-19T07:00:00.000+01:00",
-    "to": "2022-12-19T08:00:00.000+01:00",
-    "consumption": 3.281,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-02 11:00",
+    "Til": "2023-01-02 12:00",
+    "KWH60Forbruk": 1.469,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-19T08:00:00.000+01:00",
-    "to": "2022-12-19T09:00:00.000+01:00",
-    "consumption": 2.827,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-02 12:00",
+    "Til": "2023-01-02 13:00",
+    "KWH60Forbruk": 1.249,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-19T09:00:00.000+01:00",
-    "to": "2022-12-19T10:00:00.000+01:00",
-    "consumption": 2.466,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-02 13:00",
+    "Til": "2023-01-02 14:00",
+    "KWH60Forbruk": 1.202,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-19T10:00:00.000+01:00",
-    "to": "2022-12-19T11:00:00.000+01:00",
-    "consumption": 2.445,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-02 14:00",
+    "Til": "2023-01-02 15:00",
+    "KWH60Forbruk": 1.077,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-19T11:00:00.000+01:00",
-    "to": "2022-12-19T12:00:00.000+01:00",
-    "consumption": 2.154,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-02 15:00",
+    "Til": "2023-01-02 16:00",
+    "KWH60Forbruk": 0.768,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-19T12:00:00.000+01:00",
-    "to": "2022-12-19T13:00:00.000+01:00",
-    "consumption": 2.544,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-02 16:00",
+    "Til": "2023-01-02 17:00",
+    "KWH60Forbruk": 0.831,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-19T13:00:00.000+01:00",
-    "to": "2022-12-19T14:00:00.000+01:00",
-    "consumption": 2.723,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-02 17:00",
+    "Til": "2023-01-02 18:00",
+    "KWH60Forbruk": 1.03,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-19T14:00:00.000+01:00",
-    "to": "2022-12-19T15:00:00.000+01:00",
-    "consumption": 2.161,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-02 18:00",
+    "Til": "2023-01-02 19:00",
+    "KWH60Forbruk": 0.961,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-19T15:00:00.000+01:00",
-    "to": "2022-12-19T16:00:00.000+01:00",
-    "consumption": 2.03,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-02 19:00",
+    "Til": "2023-01-02 20:00",
+    "KWH60Forbruk": 1.232,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-19T16:00:00.000+01:00",
-    "to": "2022-12-19T17:00:00.000+01:00",
-    "consumption": 1.63,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-02 20:00",
+    "Til": "2023-01-02 21:00",
+    "KWH60Forbruk": 1.538,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-19T17:00:00.000+01:00",
-    "to": "2022-12-19T18:00:00.000+01:00",
-    "consumption": 1.868,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-02 21:00",
+    "Til": "2023-01-02 22:00",
+    "KWH60Forbruk": 1.612,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-19T18:00:00.000+01:00",
-    "to": "2022-12-19T19:00:00.000+01:00",
-    "consumption": 1.641,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-02 22:00",
+    "Til": "2023-01-02 23:00",
+    "KWH60Forbruk": 1.085,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-19T19:00:00.000+01:00",
-    "to": "2022-12-19T20:00:00.000+01:00",
-    "consumption": 1.461,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-02 23:00",
+    "Til": "2023-01-03 00:00",
+    "KWH60Forbruk": 0.572,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-19T20:00:00.000+01:00",
-    "to": "2022-12-19T21:00:00.000+01:00",
-    "consumption": 2.044,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-03 00:00",
+    "Til": "2023-01-03 01:00",
+    "KWH60Forbruk": 0.612,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-19T21:00:00.000+01:00",
-    "to": "2022-12-19T22:00:00.000+01:00",
-    "consumption": 2.396,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-03 01:00",
+    "Til": "2023-01-03 02:00",
+    "KWH60Forbruk": 0.558,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-19T22:00:00.000+01:00",
-    "to": "2022-12-19T23:00:00.000+01:00",
-    "consumption": 3.249,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-03 02:00",
+    "Til": "2023-01-03 03:00",
+    "KWH60Forbruk": 0.622,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-19T23:00:00.000+01:00",
-    "to": "2022-12-20T00:00:00.000+01:00",
-    "consumption": 2.727,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-03 03:00",
+    "Til": "2023-01-03 04:00",
+    "KWH60Forbruk": 0.564,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-20T00:00:00.000+01:00",
-    "to": "2022-12-20T01:00:00.000+01:00",
-    "consumption": 2.12,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-03 04:00",
+    "Til": "2023-01-03 05:00",
+    "KWH60Forbruk": 0.608,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-20T01:00:00.000+01:00",
-    "to": "2022-12-20T02:00:00.000+01:00",
-    "consumption": 3.788,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-03 05:00",
+    "Til": "2023-01-03 06:00",
+    "KWH60Forbruk": 0.59,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-20T02:00:00.000+01:00",
-    "to": "2022-12-20T03:00:00.000+01:00",
-    "consumption": 3.838,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-03 06:00",
+    "Til": "2023-01-03 07:00",
+    "KWH60Forbruk": 0.593,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-20T03:00:00.000+01:00",
-    "to": "2022-12-20T04:00:00.000+01:00",
-    "consumption": 3.617,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-03 07:00",
+    "Til": "2023-01-03 08:00",
+    "KWH60Forbruk": 0.55,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-20T04:00:00.000+01:00",
-    "to": "2022-12-20T05:00:00.000+01:00",
-    "consumption": 3.037,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-03 08:00",
+    "Til": "2023-01-03 09:00",
+    "KWH60Forbruk": 0.573,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-20T05:00:00.000+01:00",
-    "to": "2022-12-20T06:00:00.000+01:00",
-    "consumption": 2.434,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-03 09:00",
+    "Til": "2023-01-03 10:00",
+    "KWH60Forbruk": 0.497,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-20T06:00:00.000+01:00",
-    "to": "2022-12-20T07:00:00.000+01:00",
-    "consumption": 2.927,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-03 10:00",
+    "Til": "2023-01-03 11:00",
+    "KWH60Forbruk": 0.623,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-20T07:00:00.000+01:00",
-    "to": "2022-12-20T08:00:00.000+01:00",
-    "consumption": 2.811,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-03 11:00",
+    "Til": "2023-01-03 12:00",
+    "KWH60Forbruk": 0.81,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-20T08:00:00.000+01:00",
-    "to": "2022-12-20T09:00:00.000+01:00",
-    "consumption": 2.532,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-03 12:00",
+    "Til": "2023-01-03 13:00",
+    "KWH60Forbruk": 1.069,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-20T09:00:00.000+01:00",
-    "to": "2022-12-20T10:00:00.000+01:00",
-    "consumption": 2.454,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-03 13:00",
+    "Til": "2023-01-03 14:00",
+    "KWH60Forbruk": 0.823,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-20T10:00:00.000+01:00",
-    "to": "2022-12-20T11:00:00.000+01:00",
-    "consumption": 2.311,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-03 14:00",
+    "Til": "2023-01-03 15:00",
+    "KWH60Forbruk": 0.742,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-20T11:00:00.000+01:00",
-    "to": "2022-12-20T12:00:00.000+01:00",
-    "consumption": 2.227,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-03 15:00",
+    "Til": "2023-01-03 16:00",
+    "KWH60Forbruk": 0.677,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-20T12:00:00.000+01:00",
-    "to": "2022-12-20T13:00:00.000+01:00",
-    "consumption": 2.148,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-03 16:00",
+    "Til": "2023-01-03 17:00",
+    "KWH60Forbruk": 1.436,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-20T13:00:00.000+01:00",
-    "to": "2022-12-20T14:00:00.000+01:00",
-    "consumption": 2.242,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-03 17:00",
+    "Til": "2023-01-03 18:00",
+    "KWH60Forbruk": 1.168,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-20T14:00:00.000+01:00",
-    "to": "2022-12-20T15:00:00.000+01:00",
-    "consumption": 1.84,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-03 18:00",
+    "Til": "2023-01-03 19:00",
+    "KWH60Forbruk": 0.919,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-20T15:00:00.000+01:00",
-    "to": "2022-12-20T16:00:00.000+01:00",
-    "consumption": 1.635,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-03 19:00",
+    "Til": "2023-01-03 20:00",
+    "KWH60Forbruk": 0.612,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-20T16:00:00.000+01:00",
-    "to": "2022-12-20T17:00:00.000+01:00",
-    "consumption": 1.994,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-03 20:00",
+    "Til": "2023-01-03 21:00",
+    "KWH60Forbruk": 0.646,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-20T17:00:00.000+01:00",
-    "to": "2022-12-20T18:00:00.000+01:00",
-    "consumption": 1.993,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-03 21:00",
+    "Til": "2023-01-03 22:00",
+    "KWH60Forbruk": 0.64,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-20T18:00:00.000+01:00",
-    "to": "2022-12-20T19:00:00.000+01:00",
-    "consumption": 1.541,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-03 22:00",
+    "Til": "2023-01-03 23:00",
+    "KWH60Forbruk": 0.625,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-20T19:00:00.000+01:00",
-    "to": "2022-12-20T20:00:00.000+01:00",
-    "consumption": 1.551,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-03 23:00",
+    "Til": "2023-01-04 00:00",
+    "KWH60Forbruk": 0.553,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-20T20:00:00.000+01:00",
-    "to": "2022-12-20T21:00:00.000+01:00",
-    "consumption": 1.739,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-04 00:00",
+    "Til": "2023-01-04 01:00",
+    "KWH60Forbruk": 0.331,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-20T21:00:00.000+01:00",
-    "to": "2022-12-20T22:00:00.000+01:00",
-    "consumption": 1.787,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-04 01:00",
+    "Til": "2023-01-04 02:00",
+    "KWH60Forbruk": 0.388,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-20T22:00:00.000+01:00",
-    "to": "2022-12-20T23:00:00.000+01:00",
-    "consumption": 3.217,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-04 02:00",
+    "Til": "2023-01-04 03:00",
+    "KWH60Forbruk": 0.347,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-20T23:00:00.000+01:00",
-    "to": "2022-12-21T00:00:00.000+01:00",
-    "consumption": 2.717,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-04 03:00",
+    "Til": "2023-01-04 04:00",
+    "KWH60Forbruk": 0.389,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-21T00:00:00.000+01:00",
-    "to": "2022-12-21T01:00:00.000+01:00",
-    "consumption": 2.206,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-04 04:00",
+    "Til": "2023-01-04 05:00",
+    "KWH60Forbruk": 0.365,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-21T01:00:00.000+01:00",
-    "to": "2022-12-21T02:00:00.000+01:00",
-    "consumption": 2.797,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-04 05:00",
+    "Til": "2023-01-04 06:00",
+    "KWH60Forbruk": 0.386,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-21T02:00:00.000+01:00",
-    "to": "2022-12-21T03:00:00.000+01:00",
-    "consumption": 2.013,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-04 06:00",
+    "Til": "2023-01-04 07:00",
+    "KWH60Forbruk": 0.409,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-21T03:00:00.000+01:00",
-    "to": "2022-12-21T04:00:00.000+01:00",
-    "consumption": 2.798,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-04 07:00",
+    "Til": "2023-01-04 08:00",
+    "KWH60Forbruk": 0.361,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-21T04:00:00.000+01:00",
-    "to": "2022-12-21T05:00:00.000+01:00",
-    "consumption": 2.518,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-04 08:00",
+    "Til": "2023-01-04 09:00",
+    "KWH60Forbruk": 0.486,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-21T05:00:00.000+01:00",
-    "to": "2022-12-21T06:00:00.000+01:00",
-    "consumption": 2.131,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-04 09:00",
+    "Til": "2023-01-04 10:00",
+    "KWH60Forbruk": 0.656,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-21T06:00:00.000+01:00",
-    "to": "2022-12-21T07:00:00.000+01:00",
-    "consumption": 2.435,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-04 10:00",
+    "Til": "2023-01-04 11:00",
+    "KWH60Forbruk": 0.94,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-21T07:00:00.000+01:00",
-    "to": "2022-12-21T08:00:00.000+01:00",
-    "consumption": 1.883,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-04 11:00",
+    "Til": "2023-01-04 12:00",
+    "KWH60Forbruk": 2.223,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-21T08:00:00.000+01:00",
-    "to": "2022-12-21T09:00:00.000+01:00",
-    "consumption": 1.847,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-04 12:00",
+    "Til": "2023-01-04 13:00",
+    "KWH60Forbruk": 0.908,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-21T09:00:00.000+01:00",
-    "to": "2022-12-21T10:00:00.000+01:00",
-    "consumption": 1.526,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-04 13:00",
+    "Til": "2023-01-04 14:00",
+    "KWH60Forbruk": 0.758,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-21T10:00:00.000+01:00",
-    "to": "2022-12-21T11:00:00.000+01:00",
-    "consumption": 1.466,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-04 14:00",
+    "Til": "2023-01-04 15:00",
+    "KWH60Forbruk": 0.73,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-21T11:00:00.000+01:00",
-    "to": "2022-12-21T12:00:00.000+01:00",
-    "consumption": 1.497,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-04 15:00",
+    "Til": "2023-01-04 16:00",
+    "KWH60Forbruk": 0.728,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-21T12:00:00.000+01:00",
-    "to": "2022-12-21T13:00:00.000+01:00",
-    "consumption": 1.21,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-04 16:00",
+    "Til": "2023-01-04 17:00",
+    "KWH60Forbruk": 0.798,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-21T13:00:00.000+01:00",
-    "to": "2022-12-21T14:00:00.000+01:00",
-    "consumption": 1.486,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-04 17:00",
+    "Til": "2023-01-04 18:00",
+    "KWH60Forbruk": 2.572,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-21T14:00:00.000+01:00",
-    "to": "2022-12-21T15:00:00.000+01:00",
-    "consumption": 1.755,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-04 18:00",
+    "Til": "2023-01-04 19:00",
+    "KWH60Forbruk": 1.338,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-21T15:00:00.000+01:00",
-    "to": "2022-12-21T16:00:00.000+01:00",
-    "consumption": 1.804,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-04 19:00",
+    "Til": "2023-01-04 20:00",
+    "KWH60Forbruk": 1.113,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-21T16:00:00.000+01:00",
-    "to": "2022-12-21T17:00:00.000+01:00",
-    "consumption": 2.565,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-04 20:00",
+    "Til": "2023-01-04 21:00",
+    "KWH60Forbruk": 1.214,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-21T17:00:00.000+01:00",
-    "to": "2022-12-21T18:00:00.000+01:00",
-    "consumption": 1.567,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-04 21:00",
+    "Til": "2023-01-04 22:00",
+    "KWH60Forbruk": 1.192,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-21T18:00:00.000+01:00",
-    "to": "2022-12-21T19:00:00.000+01:00",
-    "consumption": 1.228,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-04 22:00",
+    "Til": "2023-01-04 23:00",
+    "KWH60Forbruk": 0.933,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-21T19:00:00.000+01:00",
-    "to": "2022-12-21T20:00:00.000+01:00",
-    "consumption": 1.122,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-04 23:00",
+    "Til": "2023-01-05 00:00",
+    "KWH60Forbruk": 0.795,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-21T20:00:00.000+01:00",
-    "to": "2022-12-21T21:00:00.000+01:00",
-    "consumption": 1.699,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-05 00:00",
+    "Til": "2023-01-05 01:00",
+    "KWH60Forbruk": 0.704,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-21T21:00:00.000+01:00",
-    "to": "2022-12-21T22:00:00.000+01:00",
-    "consumption": 1.871,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-05 01:00",
+    "Til": "2023-01-05 02:00",
+    "KWH60Forbruk": 0.547,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-21T22:00:00.000+01:00",
-    "to": "2022-12-21T23:00:00.000+01:00",
-    "consumption": 3.426,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-05 02:00",
+    "Til": "2023-01-05 03:00",
+    "KWH60Forbruk": 0.722,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-21T23:00:00.000+01:00",
-    "to": "2022-12-22T00:00:00.000+01:00",
-    "consumption": 3.137,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-05 03:00",
+    "Til": "2023-01-05 04:00",
+    "KWH60Forbruk": 0.574,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-22T00:00:00.000+01:00",
-    "to": "2022-12-22T01:00:00.000+01:00",
-    "consumption": 2.683,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-05 04:00",
+    "Til": "2023-01-05 05:00",
+    "KWH60Forbruk": 0.702,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-22T01:00:00.000+01:00",
-    "to": "2022-12-22T02:00:00.000+01:00",
-    "consumption": 2.511,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-05 05:00",
+    "Til": "2023-01-05 06:00",
+    "KWH60Forbruk": 0.593,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-22T02:00:00.000+01:00",
-    "to": "2022-12-22T03:00:00.000+01:00",
-    "consumption": 2.418,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-05 06:00",
+    "Til": "2023-01-05 07:00",
+    "KWH60Forbruk": 0.564,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-22T03:00:00.000+01:00",
-    "to": "2022-12-22T04:00:00.000+01:00",
-    "consumption": 3.174,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-05 07:00",
+    "Til": "2023-01-05 08:00",
+    "KWH60Forbruk": 0.681,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-22T04:00:00.000+01:00",
-    "to": "2022-12-22T05:00:00.000+01:00",
-    "consumption": 3.194,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-05 08:00",
+    "Til": "2023-01-05 09:00",
+    "KWH60Forbruk": 0.662,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-22T05:00:00.000+01:00",
-    "to": "2022-12-22T06:00:00.000+01:00",
-    "consumption": 2.169,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-05 09:00",
+    "Til": "2023-01-05 10:00",
+    "KWH60Forbruk": 0.638,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-22T06:00:00.000+01:00",
-    "to": "2022-12-22T07:00:00.000+01:00",
-    "consumption": 2.703,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-05 10:00",
+    "Til": "2023-01-05 11:00",
+    "KWH60Forbruk": 0.663,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-22T07:00:00.000+01:00",
-    "to": "2022-12-22T08:00:00.000+01:00",
-    "consumption": 2.361,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-05 11:00",
+    "Til": "2023-01-05 12:00",
+    "KWH60Forbruk": 2.442,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-22T08:00:00.000+01:00",
-    "to": "2022-12-22T09:00:00.000+01:00",
-    "consumption": 2.119,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-05 12:00",
+    "Til": "2023-01-05 13:00",
+    "KWH60Forbruk": 0.988,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-22T09:00:00.000+01:00",
-    "to": "2022-12-22T10:00:00.000+01:00",
-    "consumption": 1.992,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-05 13:00",
+    "Til": "2023-01-05 14:00",
+    "KWH60Forbruk": 1.245,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-22T10:00:00.000+01:00",
-    "to": "2022-12-22T11:00:00.000+01:00",
-    "consumption": 1.592,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-05 14:00",
+    "Til": "2023-01-05 15:00",
+    "KWH60Forbruk": 0.707,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-22T11:00:00.000+01:00",
-    "to": "2022-12-22T12:00:00.000+01:00",
-    "consumption": 0.877,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-05 15:00",
+    "Til": "2023-01-05 16:00",
+    "KWH60Forbruk": 1.198,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-22T12:00:00.000+01:00",
-    "to": "2022-12-22T13:00:00.000+01:00",
-    "consumption": 1.672,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-05 16:00",
+    "Til": "2023-01-05 17:00",
+    "KWH60Forbruk": 1.384,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-22T13:00:00.000+01:00",
-    "to": "2022-12-22T14:00:00.000+01:00",
-    "consumption": 2.705,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-05 17:00",
+    "Til": "2023-01-05 18:00",
+    "KWH60Forbruk": 2.875,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-22T14:00:00.000+01:00",
-    "to": "2022-12-22T15:00:00.000+01:00",
-    "consumption": 1.951,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-05 18:00",
+    "Til": "2023-01-05 19:00",
+    "KWH60Forbruk": 1.09,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-22T15:00:00.000+01:00",
-    "to": "2022-12-22T16:00:00.000+01:00",
-    "consumption": 1.918,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-05 19:00",
+    "Til": "2023-01-05 20:00",
+    "KWH60Forbruk": 1.021,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-22T16:00:00.000+01:00",
-    "to": "2022-12-22T17:00:00.000+01:00",
-    "consumption": 1.666,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-05 20:00",
+    "Til": "2023-01-05 21:00",
+    "KWH60Forbruk": 0.751,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-22T17:00:00.000+01:00",
-    "to": "2022-12-22T18:00:00.000+01:00",
-    "consumption": 1.924,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-05 21:00",
+    "Til": "2023-01-05 22:00",
+    "KWH60Forbruk": 0.687,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-22T18:00:00.000+01:00",
-    "to": "2022-12-22T19:00:00.000+01:00",
-    "consumption": 1.571,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-05 22:00",
+    "Til": "2023-01-05 23:00",
+    "KWH60Forbruk": 0.876,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-22T19:00:00.000+01:00",
-    "to": "2022-12-22T20:00:00.000+01:00",
-    "consumption": 1.084,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-05 23:00",
+    "Til": "2023-01-06 00:00",
+    "KWH60Forbruk": 0.918,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-22T20:00:00.000+01:00",
-    "to": "2022-12-22T21:00:00.000+01:00",
-    "consumption": 1.748,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-06 00:00",
+    "Til": "2023-01-06 01:00",
+    "KWH60Forbruk": 0.654,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-22T21:00:00.000+01:00",
-    "to": "2022-12-22T22:00:00.000+01:00",
-    "consumption": 1.786,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-06 01:00",
+    "Til": "2023-01-06 02:00",
+    "KWH60Forbruk": 0.618,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-22T22:00:00.000+01:00",
-    "to": "2022-12-22T23:00:00.000+01:00",
-    "consumption": 3.333,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-06 02:00",
+    "Til": "2023-01-06 03:00",
+    "KWH60Forbruk": 0.531,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-22T23:00:00.000+01:00",
-    "to": "2022-12-23T00:00:00.000+01:00",
-    "consumption": 2.856,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-06 03:00",
+    "Til": "2023-01-06 04:00",
+    "KWH60Forbruk": 0.67,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-23T00:00:00.000+01:00",
-    "to": "2022-12-23T01:00:00.000+01:00",
-    "consumption": 2.794,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-06 04:00",
+    "Til": "2023-01-06 05:00",
+    "KWH60Forbruk": 0.498,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-23T01:00:00.000+01:00",
-    "to": "2022-12-23T02:00:00.000+01:00",
-    "consumption": 2.681,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-06 05:00",
+    "Til": "2023-01-06 06:00",
+    "KWH60Forbruk": 0.578,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-23T02:00:00.000+01:00",
-    "to": "2022-12-23T03:00:00.000+01:00",
-    "consumption": 2.277,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-06 06:00",
+    "Til": "2023-01-06 07:00",
+    "KWH60Forbruk": 0.519,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-23T03:00:00.000+01:00",
-    "to": "2022-12-23T04:00:00.000+01:00",
-    "consumption": 2.136,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-06 07:00",
+    "Til": "2023-01-06 08:00",
+    "KWH60Forbruk": 0.54,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-23T04:00:00.000+01:00",
-    "to": "2022-12-23T05:00:00.000+01:00",
-    "consumption": 2.599,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-06 08:00",
+    "Til": "2023-01-06 09:00",
+    "KWH60Forbruk": 0.647,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-23T05:00:00.000+01:00",
-    "to": "2022-12-23T06:00:00.000+01:00",
-    "consumption": 2.29,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-06 09:00",
+    "Til": "2023-01-06 10:00",
+    "KWH60Forbruk": 0.537,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-23T06:00:00.000+01:00",
-    "to": "2022-12-23T07:00:00.000+01:00",
-    "consumption": 2.434,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-06 10:00",
+    "Til": "2023-01-06 11:00",
+    "KWH60Forbruk": 0.715,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-23T07:00:00.000+01:00",
-    "to": "2022-12-23T08:00:00.000+01:00",
-    "consumption": 2.799,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-06 11:00",
+    "Til": "2023-01-06 12:00",
+    "KWH60Forbruk": 1.007,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-23T08:00:00.000+01:00",
-    "to": "2022-12-23T09:00:00.000+01:00",
-    "consumption": 2.358,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-06 12:00",
+    "Til": "2023-01-06 13:00",
+    "KWH60Forbruk": 0.829,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-23T09:00:00.000+01:00",
-    "to": "2022-12-23T10:00:00.000+01:00",
-    "consumption": 2.474,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-06 13:00",
+    "Til": "2023-01-06 14:00",
+    "KWH60Forbruk": 0.8,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-23T10:00:00.000+01:00",
-    "to": "2022-12-23T11:00:00.000+01:00",
-    "consumption": 2.082,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-06 14:00",
+    "Til": "2023-01-06 15:00",
+    "KWH60Forbruk": 0.941,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-23T11:00:00.000+01:00",
-    "to": "2022-12-23T12:00:00.000+01:00",
-    "consumption": 1.829,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-06 15:00",
+    "Til": "2023-01-06 16:00",
+    "KWH60Forbruk": 0.899,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-23T12:00:00.000+01:00",
-    "to": "2022-12-23T13:00:00.000+01:00",
-    "consumption": 1.683,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-06 16:00",
+    "Til": "2023-01-06 17:00",
+    "KWH60Forbruk": 0.941,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-23T13:00:00.000+01:00",
-    "to": "2022-12-23T14:00:00.000+01:00",
-    "consumption": 2.742,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-06 17:00",
+    "Til": "2023-01-06 18:00",
+    "KWH60Forbruk": 0.767,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-23T14:00:00.000+01:00",
-    "to": "2022-12-23T15:00:00.000+01:00",
-    "consumption": 1.754,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-06 18:00",
+    "Til": "2023-01-06 19:00",
+    "KWH60Forbruk": 1.182,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-23T15:00:00.000+01:00",
-    "to": "2022-12-23T16:00:00.000+01:00",
-    "consumption": 1.855,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-06 19:00",
+    "Til": "2023-01-06 20:00",
+    "KWH60Forbruk": 1.78,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-23T16:00:00.000+01:00",
-    "to": "2022-12-23T17:00:00.000+01:00",
-    "consumption": 1.495,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-06 20:00",
+    "Til": "2023-01-06 21:00",
+    "KWH60Forbruk": 0.796,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-23T17:00:00.000+01:00",
-    "to": "2022-12-23T18:00:00.000+01:00",
-    "consumption": 2.571,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-06 21:00",
+    "Til": "2023-01-06 22:00",
+    "KWH60Forbruk": 0.884,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-23T18:00:00.000+01:00",
-    "to": "2022-12-23T19:00:00.000+01:00",
-    "consumption": 1.635,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-06 22:00",
+    "Til": "2023-01-06 23:00",
+    "KWH60Forbruk": 0.91,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-23T19:00:00.000+01:00",
-    "to": "2022-12-23T20:00:00.000+01:00",
-    "consumption": 2.834,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-06 23:00",
+    "Til": "2023-01-07 00:00",
+    "KWH60Forbruk": 0.797,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-23T20:00:00.000+01:00",
-    "to": "2022-12-23T21:00:00.000+01:00",
-    "consumption": 1.874,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-07 00:00",
+    "Til": "2023-01-07 01:00",
+    "KWH60Forbruk": 0.658,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-23T21:00:00.000+01:00",
-    "to": "2022-12-23T22:00:00.000+01:00",
-    "consumption": 2.078,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-07 01:00",
+    "Til": "2023-01-07 02:00",
+    "KWH60Forbruk": 0.54,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-23T22:00:00.000+01:00",
-    "to": "2022-12-23T23:00:00.000+01:00",
-    "consumption": 3.268,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-07 02:00",
+    "Til": "2023-01-07 03:00",
+    "KWH60Forbruk": 0.486,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-23T23:00:00.000+01:00",
-    "to": "2022-12-24T00:00:00.000+01:00",
-    "consumption": 2.825,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-07 03:00",
+    "Til": "2023-01-07 04:00",
+    "KWH60Forbruk": 0.504,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-24T00:00:00.000+01:00",
-    "to": "2022-12-24T01:00:00.000+01:00",
-    "consumption": 2.037,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-07 04:00",
+    "Til": "2023-01-07 05:00",
+    "KWH60Forbruk": 0.488,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-24T01:00:00.000+01:00",
-    "to": "2022-12-24T02:00:00.000+01:00",
-    "consumption": 13.824,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-07 05:00",
+    "Til": "2023-01-07 06:00",
+    "KWH60Forbruk": 0.528,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-24T02:00:00.000+01:00",
-    "to": "2022-12-24T03:00:00.000+01:00",
-    "consumption": 14.115,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-07 06:00",
+    "Til": "2023-01-07 07:00",
+    "KWH60Forbruk": 0.475,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-24T03:00:00.000+01:00",
-    "to": "2022-12-24T04:00:00.000+01:00",
-    "consumption": 13.149,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-07 07:00",
+    "Til": "2023-01-07 08:00",
+    "KWH60Forbruk": 0.551,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-24T04:00:00.000+01:00",
-    "to": "2022-12-24T05:00:00.000+01:00",
-    "consumption": 13.186,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-07 08:00",
+    "Til": "2023-01-07 09:00",
+    "KWH60Forbruk": 0.533,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-24T05:00:00.000+01:00",
-    "to": "2022-12-24T06:00:00.000+01:00",
-    "consumption": 14.089,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-07 09:00",
+    "Til": "2023-01-07 10:00",
+    "KWH60Forbruk": 0.522,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-24T06:00:00.000+01:00",
-    "to": "2022-12-24T07:00:00.000+01:00",
-    "consumption": 8.834,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-07 10:00",
+    "Til": "2023-01-07 11:00",
+    "KWH60Forbruk": 0.584,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-24T07:00:00.000+01:00",
-    "to": "2022-12-24T08:00:00.000+01:00",
-    "consumption": 3.855,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-07 11:00",
+    "Til": "2023-01-07 12:00",
+    "KWH60Forbruk": 1.114,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-24T08:00:00.000+01:00",
-    "to": "2022-12-24T09:00:00.000+01:00",
-    "consumption": 4.087,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-07 12:00",
+    "Til": "2023-01-07 13:00",
+    "KWH60Forbruk": 0.846,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-24T09:00:00.000+01:00",
-    "to": "2022-12-24T10:00:00.000+01:00",
-    "consumption": 5.271,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-07 13:00",
+    "Til": "2023-01-07 14:00",
+    "KWH60Forbruk": 0.539,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-24T10:00:00.000+01:00",
-    "to": "2022-12-24T11:00:00.000+01:00",
-    "consumption": 3.283,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-07 14:00",
+    "Til": "2023-01-07 15:00",
+    "KWH60Forbruk": 0.54,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-24T11:00:00.000+01:00",
-    "to": "2022-12-24T12:00:00.000+01:00",
-    "consumption": 4.451,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-07 15:00",
+    "Til": "2023-01-07 16:00",
+    "KWH60Forbruk": 0.609,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-24T12:00:00.000+01:00",
-    "to": "2022-12-24T13:00:00.000+01:00",
-    "consumption": 4.762,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-07 16:00",
+    "Til": "2023-01-07 17:00",
+    "KWH60Forbruk": 0.99,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-24T13:00:00.000+01:00",
-    "to": "2022-12-24T14:00:00.000+01:00",
-    "consumption": 3.915,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-07 17:00",
+    "Til": "2023-01-07 18:00",
+    "KWH60Forbruk": 1.516,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-24T14:00:00.000+01:00",
-    "to": "2022-12-24T15:00:00.000+01:00",
-    "consumption": 3.537,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-07 18:00",
+    "Til": "2023-01-07 19:00",
+    "KWH60Forbruk": 1.88,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-24T15:00:00.000+01:00",
-    "to": "2022-12-24T16:00:00.000+01:00",
-    "consumption": 3.674,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-07 19:00",
+    "Til": "2023-01-07 20:00",
+    "KWH60Forbruk": 1.485,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-24T16:00:00.000+01:00",
-    "to": "2022-12-24T17:00:00.000+01:00",
-    "consumption": 5.663,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-07 20:00",
+    "Til": "2023-01-07 21:00",
+    "KWH60Forbruk": 0.866,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-24T17:00:00.000+01:00",
-    "to": "2022-12-24T18:00:00.000+01:00",
-    "consumption": 4.243,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-07 21:00",
+    "Til": "2023-01-07 22:00",
+    "KWH60Forbruk": 0.964,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-24T18:00:00.000+01:00",
-    "to": "2022-12-24T19:00:00.000+01:00",
-    "consumption": 2.995,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-07 22:00",
+    "Til": "2023-01-07 23:00",
+    "KWH60Forbruk": 0.921,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-24T19:00:00.000+01:00",
-    "to": "2022-12-24T20:00:00.000+01:00",
-    "consumption": 4.053,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-07 23:00",
+    "Til": "2023-01-08 00:00",
+    "KWH60Forbruk": 0.815,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-24T20:00:00.000+01:00",
-    "to": "2022-12-24T21:00:00.000+01:00",
-    "consumption": 3.62,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-08 00:00",
+    "Til": "2023-01-08 01:00",
+    "KWH60Forbruk": 0.704,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-24T21:00:00.000+01:00",
-    "to": "2022-12-24T22:00:00.000+01:00",
-    "consumption": 3.746,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-08 01:00",
+    "Til": "2023-01-08 02:00",
+    "KWH60Forbruk": 0.693,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-24T22:00:00.000+01:00",
-    "to": "2022-12-24T23:00:00.000+01:00",
-    "consumption": 4.019,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-08 02:00",
+    "Til": "2023-01-08 03:00",
+    "KWH60Forbruk": 0.46,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-24T23:00:00.000+01:00",
-    "to": "2022-12-25T00:00:00.000+01:00",
-    "consumption": 3.241,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-08 03:00",
+    "Til": "2023-01-08 04:00",
+    "KWH60Forbruk": 0.475,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-25T00:00:00.000+01:00",
-    "to": "2022-12-25T01:00:00.000+01:00",
-    "consumption": 5.192,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-08 04:00",
+    "Til": "2023-01-08 05:00",
+    "KWH60Forbruk": 0.541,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-25T01:00:00.000+01:00",
-    "to": "2022-12-25T02:00:00.000+01:00",
-    "consumption": 3.596,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-08 05:00",
+    "Til": "2023-01-08 06:00",
+    "KWH60Forbruk": 0.433,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-25T02:00:00.000+01:00",
-    "to": "2022-12-25T03:00:00.000+01:00",
-    "consumption": 3.544,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-08 06:00",
+    "Til": "2023-01-08 07:00",
+    "KWH60Forbruk": 0.517,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-25T03:00:00.000+01:00",
-    "to": "2022-12-25T04:00:00.000+01:00",
-    "consumption": 4.196,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-08 07:00",
+    "Til": "2023-01-08 08:00",
+    "KWH60Forbruk": 0.551,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-25T04:00:00.000+01:00",
-    "to": "2022-12-25T05:00:00.000+01:00",
-    "consumption": 3.471,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-08 08:00",
+    "Til": "2023-01-08 09:00",
+    "KWH60Forbruk": 0.478,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-25T05:00:00.000+01:00",
-    "to": "2022-12-25T06:00:00.000+01:00",
-    "consumption": 4.098,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-08 09:00",
+    "Til": "2023-01-08 10:00",
+    "KWH60Forbruk": 0.499,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-25T06:00:00.000+01:00",
-    "to": "2022-12-25T07:00:00.000+01:00",
-    "consumption": 4.814,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-08 10:00",
+    "Til": "2023-01-08 11:00",
+    "KWH60Forbruk": 0.691,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-25T07:00:00.000+01:00",
-    "to": "2022-12-25T08:00:00.000+01:00",
-    "consumption": 3.885,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-08 11:00",
+    "Til": "2023-01-08 12:00",
+    "KWH60Forbruk": 0.579,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-25T08:00:00.000+01:00",
-    "to": "2022-12-25T09:00:00.000+01:00",
-    "consumption": 3.25,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-08 12:00",
+    "Til": "2023-01-08 13:00",
+    "KWH60Forbruk": 0.798,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-25T09:00:00.000+01:00",
-    "to": "2022-12-25T10:00:00.000+01:00",
-    "consumption": 3.297,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-08 13:00",
+    "Til": "2023-01-08 14:00",
+    "KWH60Forbruk": 1.384,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-25T10:00:00.000+01:00",
-    "to": "2022-12-25T11:00:00.000+01:00",
-    "consumption": 2.368,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-08 14:00",
+    "Til": "2023-01-08 15:00",
+    "KWH60Forbruk": 0.756,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-25T11:00:00.000+01:00",
-    "to": "2022-12-25T12:00:00.000+01:00",
-    "consumption": 2.432,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-08 15:00",
+    "Til": "2023-01-08 16:00",
+    "KWH60Forbruk": 1.189,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-25T12:00:00.000+01:00",
-    "to": "2022-12-25T13:00:00.000+01:00",
-    "consumption": 2.267,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-08 16:00",
+    "Til": "2023-01-08 17:00",
+    "KWH60Forbruk": 1.019,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-25T13:00:00.000+01:00",
-    "to": "2022-12-25T14:00:00.000+01:00",
-    "consumption": 3.725,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-08 17:00",
+    "Til": "2023-01-08 18:00",
+    "KWH60Forbruk": 1.283,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-25T14:00:00.000+01:00",
-    "to": "2022-12-25T15:00:00.000+01:00",
-    "consumption": 3.297,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-08 18:00",
+    "Til": "2023-01-08 19:00",
+    "KWH60Forbruk": 2.125,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-25T15:00:00.000+01:00",
-    "to": "2022-12-25T16:00:00.000+01:00",
-    "consumption": 3.114,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-08 19:00",
+    "Til": "2023-01-08 20:00",
+    "KWH60Forbruk": 1.343,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-25T16:00:00.000+01:00",
-    "to": "2022-12-25T17:00:00.000+01:00",
-    "consumption": 3.357,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-08 20:00",
+    "Til": "2023-01-08 21:00",
+    "KWH60Forbruk": 0.99,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-25T17:00:00.000+01:00",
-    "to": "2022-12-25T18:00:00.000+01:00",
-    "consumption": 3.676,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-08 21:00",
+    "Til": "2023-01-08 22:00",
+    "KWH60Forbruk": 0.831,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-25T18:00:00.000+01:00",
-    "to": "2022-12-25T19:00:00.000+01:00",
-    "consumption": 3.182,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-08 22:00",
+    "Til": "2023-01-08 23:00",
+    "KWH60Forbruk": 0.827,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-25T19:00:00.000+01:00",
-    "to": "2022-12-25T20:00:00.000+01:00",
-    "consumption": 2.088,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-08 23:00",
+    "Til": "2023-01-09 00:00",
+    "KWH60Forbruk": 0.958,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-25T20:00:00.000+01:00",
-    "to": "2022-12-25T21:00:00.000+01:00",
-    "consumption": 3.39,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-09 00:00",
+    "Til": "2023-01-09 01:00",
+    "KWH60Forbruk": 0.586,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-25T21:00:00.000+01:00",
-    "to": "2022-12-25T22:00:00.000+01:00",
-    "consumption": 3.485,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-09 01:00",
+    "Til": "2023-01-09 02:00",
+    "KWH60Forbruk": 0.477,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-25T22:00:00.000+01:00",
-    "to": "2022-12-25T23:00:00.000+01:00",
-    "consumption": 4.348,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-09 02:00",
+    "Til": "2023-01-09 03:00",
+    "KWH60Forbruk": 0.627,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-25T23:00:00.000+01:00",
-    "to": "2022-12-26T00:00:00.000+01:00",
-    "consumption": 3.601,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-09 03:00",
+    "Til": "2023-01-09 04:00",
+    "KWH60Forbruk": 0.533,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-26T00:00:00.000+01:00",
-    "to": "2022-12-26T01:00:00.000+01:00",
-    "consumption": 3.267,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-09 04:00",
+    "Til": "2023-01-09 05:00",
+    "KWH60Forbruk": 0.527,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-26T01:00:00.000+01:00",
-    "to": "2022-12-26T02:00:00.000+01:00",
-    "consumption": 4.326,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-09 05:00",
+    "Til": "2023-01-09 06:00",
+    "KWH60Forbruk": 0.512,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-26T02:00:00.000+01:00",
-    "to": "2022-12-26T03:00:00.000+01:00",
-    "consumption": 3.321,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-09 06:00",
+    "Til": "2023-01-09 07:00",
+    "KWH60Forbruk": 0.52,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-26T03:00:00.000+01:00",
-    "to": "2022-12-26T04:00:00.000+01:00",
-    "consumption": 3.594,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-09 07:00",
+    "Til": "2023-01-09 08:00",
+    "KWH60Forbruk": 0.56,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-26T04:00:00.000+01:00",
-    "to": "2022-12-26T05:00:00.000+01:00",
-    "consumption": 3.522,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-09 08:00",
+    "Til": "2023-01-09 09:00",
+    "KWH60Forbruk": 0.635,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-26T05:00:00.000+01:00",
-    "to": "2022-12-26T06:00:00.000+01:00",
-    "consumption": 12.982,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-09 09:00",
+    "Til": "2023-01-09 10:00",
+    "KWH60Forbruk": 0.909,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-26T06:00:00.000+01:00",
-    "to": "2022-12-26T07:00:00.000+01:00",
-    "consumption": 4.847,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-09 10:00",
+    "Til": "2023-01-09 11:00",
+    "KWH60Forbruk": 0.515,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-26T07:00:00.000+01:00",
-    "to": "2022-12-26T08:00:00.000+01:00",
-    "consumption": 3.31,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-09 11:00",
+    "Til": "2023-01-09 12:00",
+    "KWH60Forbruk": 0.613,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-26T08:00:00.000+01:00",
-    "to": "2022-12-26T09:00:00.000+01:00",
-    "consumption": 3.09,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-09 12:00",
+    "Til": "2023-01-09 13:00",
+    "KWH60Forbruk": 0.863,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-26T09:00:00.000+01:00",
-    "to": "2022-12-26T10:00:00.000+01:00",
-    "consumption": 2.651,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-09 13:00",
+    "Til": "2023-01-09 14:00",
+    "KWH60Forbruk": 0.807,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-26T10:00:00.000+01:00",
-    "to": "2022-12-26T11:00:00.000+01:00",
-    "consumption": 3.114,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-09 14:00",
+    "Til": "2023-01-09 15:00",
+    "KWH60Forbruk": 0.745,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-26T11:00:00.000+01:00",
-    "to": "2022-12-26T12:00:00.000+01:00",
-    "consumption": 4.107,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-09 15:00",
+    "Til": "2023-01-09 16:00",
+    "KWH60Forbruk": 0.684,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-26T12:00:00.000+01:00",
-    "to": "2022-12-26T13:00:00.000+01:00",
-    "consumption": 3.56,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-09 16:00",
+    "Til": "2023-01-09 17:00",
+    "KWH60Forbruk": 0.669,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-26T13:00:00.000+01:00",
-    "to": "2022-12-26T14:00:00.000+01:00",
-    "consumption": 3.822,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-09 17:00",
+    "Til": "2023-01-09 18:00",
+    "KWH60Forbruk": 0.775,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-26T14:00:00.000+01:00",
-    "to": "2022-12-26T15:00:00.000+01:00",
-    "consumption": 5.923,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-09 18:00",
+    "Til": "2023-01-09 19:00",
+    "KWH60Forbruk": 0.883,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-26T15:00:00.000+01:00",
-    "to": "2022-12-26T16:00:00.000+01:00",
-    "consumption": 3.983,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-09 19:00",
+    "Til": "2023-01-09 20:00",
+    "KWH60Forbruk": 1.137,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-26T16:00:00.000+01:00",
-    "to": "2022-12-26T17:00:00.000+01:00",
-    "consumption": 2.062,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-09 20:00",
+    "Til": "2023-01-09 21:00",
+    "KWH60Forbruk": 0.923,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-26T17:00:00.000+01:00",
-    "to": "2022-12-26T18:00:00.000+01:00",
-    "consumption": 2.143,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-09 21:00",
+    "Til": "2023-01-09 22:00",
+    "KWH60Forbruk": 1.018,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-26T18:00:00.000+01:00",
-    "to": "2022-12-26T19:00:00.000+01:00",
-    "consumption": 2.767,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-09 22:00",
+    "Til": "2023-01-09 23:00",
+    "KWH60Forbruk": 1.107,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-26T19:00:00.000+01:00",
-    "to": "2022-12-26T20:00:00.000+01:00",
-    "consumption": 2.235,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-09 23:00",
+    "Til": "2023-01-10 00:00",
+    "KWH60Forbruk": 0.739,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-26T20:00:00.000+01:00",
-    "to": "2022-12-26T21:00:00.000+01:00",
-    "consumption": 2.026,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-10 00:00",
+    "Til": "2023-01-10 01:00",
+    "KWH60Forbruk": 0.536,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-26T21:00:00.000+01:00",
-    "to": "2022-12-26T22:00:00.000+01:00",
-    "consumption": 2.377,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-10 01:00",
+    "Til": "2023-01-10 02:00",
+    "KWH60Forbruk": 0.569,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-26T22:00:00.000+01:00",
-    "to": "2022-12-26T23:00:00.000+01:00",
-    "consumption": 3.943,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-10 02:00",
+    "Til": "2023-01-10 03:00",
+    "KWH60Forbruk": 0.463,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-26T23:00:00.000+01:00",
-    "to": "2022-12-27T00:00:00.000+01:00",
-    "consumption": 3.429,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-10 03:00",
+    "Til": "2023-01-10 04:00",
+    "KWH60Forbruk": 0.549,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-27T00:00:00.000+01:00",
-    "to": "2022-12-27T01:00:00.000+01:00",
-    "consumption": 3.134,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-10 04:00",
+    "Til": "2023-01-10 05:00",
+    "KWH60Forbruk": 0.51,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-27T01:00:00.000+01:00",
-    "to": "2022-12-27T02:00:00.000+01:00",
-    "consumption": 2.686,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-10 05:00",
+    "Til": "2023-01-10 06:00",
+    "KWH60Forbruk": 0.48,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-27T02:00:00.000+01:00",
-    "to": "2022-12-27T03:00:00.000+01:00",
-    "consumption": 4.568,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-10 06:00",
+    "Til": "2023-01-10 07:00",
+    "KWH60Forbruk": 0.543,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-27T03:00:00.000+01:00",
-    "to": "2022-12-27T04:00:00.000+01:00",
-    "consumption": 7.657,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-10 07:00",
+    "Til": "2023-01-10 08:00",
+    "KWH60Forbruk": 0.598,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-27T04:00:00.000+01:00",
-    "to": "2022-12-27T05:00:00.000+01:00",
-    "consumption": 3.082,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-10 08:00",
+    "Til": "2023-01-10 09:00",
+    "KWH60Forbruk": 0.656,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-27T05:00:00.000+01:00",
-    "to": "2022-12-27T06:00:00.000+01:00",
-    "consumption": 2.836,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-10 09:00",
+    "Til": "2023-01-10 10:00",
+    "KWH60Forbruk": 0.675,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-27T06:00:00.000+01:00",
-    "to": "2022-12-27T07:00:00.000+01:00",
-    "consumption": 2.682,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-10 10:00",
+    "Til": "2023-01-10 11:00",
+    "KWH60Forbruk": 0.559,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-27T07:00:00.000+01:00",
-    "to": "2022-12-27T08:00:00.000+01:00",
-    "consumption": 2.975,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-10 11:00",
+    "Til": "2023-01-10 12:00",
+    "KWH60Forbruk": 0.75,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-27T08:00:00.000+01:00",
-    "to": "2022-12-27T09:00:00.000+01:00",
-    "consumption": 3.249,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-10 12:00",
+    "Til": "2023-01-10 13:00",
+    "KWH60Forbruk": 1.012,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-27T09:00:00.000+01:00",
-    "to": "2022-12-27T10:00:00.000+01:00",
-    "consumption": 2.723,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-10 13:00",
+    "Til": "2023-01-10 14:00",
+    "KWH60Forbruk": 0.926,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-27T10:00:00.000+01:00",
-    "to": "2022-12-27T11:00:00.000+01:00",
-    "consumption": 3.368,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-10 14:00",
+    "Til": "2023-01-10 15:00",
+    "KWH60Forbruk": 0.813,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-27T11:00:00.000+01:00",
-    "to": "2022-12-27T12:00:00.000+01:00",
-    "consumption": 3.033,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-10 15:00",
+    "Til": "2023-01-10 16:00",
+    "KWH60Forbruk": 0.65,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-27T12:00:00.000+01:00",
-    "to": "2022-12-27T13:00:00.000+01:00",
-    "consumption": 2.926,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-10 16:00",
+    "Til": "2023-01-10 17:00",
+    "KWH60Forbruk": 0.59,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-27T13:00:00.000+01:00",
-    "to": "2022-12-27T14:00:00.000+01:00",
-    "consumption": 2.493,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-10 17:00",
+    "Til": "2023-01-10 18:00",
+    "KWH60Forbruk": 0.532,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-27T14:00:00.000+01:00",
-    "to": "2022-12-27T15:00:00.000+01:00",
-    "consumption": 2.8,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-10 18:00",
+    "Til": "2023-01-10 19:00",
+    "KWH60Forbruk": 0.606,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-27T15:00:00.000+01:00",
-    "to": "2022-12-27T16:00:00.000+01:00",
-    "consumption": 2.602,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-10 19:00",
+    "Til": "2023-01-10 20:00",
+    "KWH60Forbruk": 0.582,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-27T16:00:00.000+01:00",
-    "to": "2022-12-27T17:00:00.000+01:00",
-    "consumption": 2.34,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-10 20:00",
+    "Til": "2023-01-10 21:00",
+    "KWH60Forbruk": 0.566,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-27T17:00:00.000+01:00",
-    "to": "2022-12-27T18:00:00.000+01:00",
-    "consumption": 2.502,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-10 21:00",
+    "Til": "2023-01-10 22:00",
+    "KWH60Forbruk": 0.795,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-27T18:00:00.000+01:00",
-    "to": "2022-12-27T19:00:00.000+01:00",
-    "consumption": 2.076,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-10 22:00",
+    "Til": "2023-01-10 23:00",
+    "KWH60Forbruk": 0.719,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-27T19:00:00.000+01:00",
-    "to": "2022-12-27T20:00:00.000+01:00",
-    "consumption": 2.388,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-10 23:00",
+    "Til": "2023-01-11 00:00",
+    "KWH60Forbruk": 0.444,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-27T20:00:00.000+01:00",
-    "to": "2022-12-27T21:00:00.000+01:00",
-    "consumption": 3.118,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-11 00:00",
+    "Til": "2023-01-11 01:00",
+    "KWH60Forbruk": 0.645,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-27T21:00:00.000+01:00",
-    "to": "2022-12-27T22:00:00.000+01:00",
-    "consumption": 3.031,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-11 01:00",
+    "Til": "2023-01-11 02:00",
+    "KWH60Forbruk": 0.505,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-27T22:00:00.000+01:00",
-    "to": "2022-12-27T23:00:00.000+01:00",
-    "consumption": 4.043,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-11 02:00",
+    "Til": "2023-01-11 03:00",
+    "KWH60Forbruk": 0.402,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-27T23:00:00.000+01:00",
-    "to": "2022-12-28T00:00:00.000+01:00",
-    "consumption": 3.21,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-11 03:00",
+    "Til": "2023-01-11 04:00",
+    "KWH60Forbruk": 0.495,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-28T00:00:00.000+01:00",
-    "to": "2022-12-28T01:00:00.000+01:00",
-    "consumption": 3.593,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-11 04:00",
+    "Til": "2023-01-11 05:00",
+    "KWH60Forbruk": 0.437,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-28T01:00:00.000+01:00",
-    "to": "2022-12-28T02:00:00.000+01:00",
-    "consumption": 13.219,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-11 05:00",
+    "Til": "2023-01-11 06:00",
+    "KWH60Forbruk": 0.387,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-28T02:00:00.000+01:00",
-    "to": "2022-12-28T03:00:00.000+01:00",
-    "consumption": 4.418,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-11 06:00",
+    "Til": "2023-01-11 07:00",
+    "KWH60Forbruk": 0.652,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-28T03:00:00.000+01:00",
-    "to": "2022-12-28T04:00:00.000+01:00",
-    "consumption": 7.271,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-11 07:00",
+    "Til": "2023-01-11 08:00",
+    "KWH60Forbruk": 0.352,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-28T04:00:00.000+01:00",
-    "to": "2022-12-28T05:00:00.000+01:00",
-    "consumption": 3.096,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-11 08:00",
+    "Til": "2023-01-11 09:00",
+    "KWH60Forbruk": 0.294,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-28T05:00:00.000+01:00",
-    "to": "2022-12-28T06:00:00.000+01:00",
-    "consumption": 3.2,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-11 09:00",
+    "Til": "2023-01-11 10:00",
+    "KWH60Forbruk": 0.406,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-28T06:00:00.000+01:00",
-    "to": "2022-12-28T07:00:00.000+01:00",
-    "consumption": 3.251,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-11 10:00",
+    "Til": "2023-01-11 11:00",
+    "KWH60Forbruk": 0.346,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-28T07:00:00.000+01:00",
-    "to": "2022-12-28T08:00:00.000+01:00",
-    "consumption": 2.866,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-11 11:00",
+    "Til": "2023-01-11 12:00",
+    "KWH60Forbruk": 0.308,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-28T08:00:00.000+01:00",
-    "to": "2022-12-28T09:00:00.000+01:00",
-    "consumption": 3.432,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-11 12:00",
+    "Til": "2023-01-11 13:00",
+    "KWH60Forbruk": 0.397,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-28T09:00:00.000+01:00",
-    "to": "2022-12-28T10:00:00.000+01:00",
-    "consumption": 3.363,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-11 13:00",
+    "Til": "2023-01-11 14:00",
+    "KWH60Forbruk": 0.848,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-28T10:00:00.000+01:00",
-    "to": "2022-12-28T11:00:00.000+01:00",
-    "consumption": 3.14,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-11 14:00",
+    "Til": "2023-01-11 15:00",
+    "KWH60Forbruk": 1.356,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-28T11:00:00.000+01:00",
-    "to": "2022-12-28T12:00:00.000+01:00",
-    "consumption": 4.481,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-11 15:00",
+    "Til": "2023-01-11 16:00",
+    "KWH60Forbruk": 0.986,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-28T12:00:00.000+01:00",
-    "to": "2022-12-28T13:00:00.000+01:00",
-    "consumption": 3.024,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-11 16:00",
+    "Til": "2023-01-11 17:00",
+    "KWH60Forbruk": 0.856,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-28T13:00:00.000+01:00",
-    "to": "2022-12-28T14:00:00.000+01:00",
-    "consumption": 3.279,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-11 17:00",
+    "Til": "2023-01-11 18:00",
+    "KWH60Forbruk": 0.877,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-28T14:00:00.000+01:00",
-    "to": "2022-12-28T15:00:00.000+01:00",
-    "consumption": 3.051,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-11 18:00",
+    "Til": "2023-01-11 19:00",
+    "KWH60Forbruk": 0.692,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-28T15:00:00.000+01:00",
-    "to": "2022-12-28T16:00:00.000+01:00",
-    "consumption": 2.617,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-11 19:00",
+    "Til": "2023-01-11 20:00",
+    "KWH60Forbruk": 1.012,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-28T16:00:00.000+01:00",
-    "to": "2022-12-28T17:00:00.000+01:00",
-    "consumption": 3.162,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-11 20:00",
+    "Til": "2023-01-11 21:00",
+    "KWH60Forbruk": 1.178,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-28T17:00:00.000+01:00",
-    "to": "2022-12-28T18:00:00.000+01:00",
-    "consumption": 2.738,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-11 21:00",
+    "Til": "2023-01-11 22:00",
+    "KWH60Forbruk": 0.949,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-28T18:00:00.000+01:00",
-    "to": "2022-12-28T19:00:00.000+01:00",
-    "consumption": 2.376,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-11 22:00",
+    "Til": "2023-01-11 23:00",
+    "KWH60Forbruk": 1.18,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-28T19:00:00.000+01:00",
-    "to": "2022-12-28T20:00:00.000+01:00",
-    "consumption": 2.985,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-11 23:00",
+    "Til": "2023-01-12 00:00",
+    "KWH60Forbruk": 1.031,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-28T20:00:00.000+01:00",
-    "to": "2022-12-28T21:00:00.000+01:00",
-    "consumption": 2.692,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-12 00:00",
+    "Til": "2023-01-12 01:00",
+    "KWH60Forbruk": 0.661,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-28T21:00:00.000+01:00",
-    "to": "2022-12-28T22:00:00.000+01:00",
-    "consumption": 3.602,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-12 01:00",
+    "Til": "2023-01-12 02:00",
+    "KWH60Forbruk": 0.605,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-28T22:00:00.000+01:00",
-    "to": "2022-12-28T23:00:00.000+01:00",
-    "consumption": 4.073,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-12 02:00",
+    "Til": "2023-01-12 03:00",
+    "KWH60Forbruk": 0.674,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-28T23:00:00.000+01:00",
-    "to": "2022-12-29T00:00:00.000+01:00",
-    "consumption": 3.213,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-12 03:00",
+    "Til": "2023-01-12 04:00",
+    "KWH60Forbruk": 0.64,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-29T00:00:00.000+01:00",
-    "to": "2022-12-29T01:00:00.000+01:00",
-    "consumption": 4.275,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-12 04:00",
+    "Til": "2023-01-12 05:00",
+    "KWH60Forbruk": 0.649,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-29T01:00:00.000+01:00",
-    "to": "2022-12-29T02:00:00.000+01:00",
-    "consumption": 3.302,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-12 05:00",
+    "Til": "2023-01-12 06:00",
+    "KWH60Forbruk": 0.72,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-29T02:00:00.000+01:00",
-    "to": "2022-12-29T03:00:00.000+01:00",
-    "consumption": 2.977,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-12 06:00",
+    "Til": "2023-01-12 07:00",
+    "KWH60Forbruk": 0.778,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-29T03:00:00.000+01:00",
-    "to": "2022-12-29T04:00:00.000+01:00",
-    "consumption": 8.981,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-12 07:00",
+    "Til": "2023-01-12 08:00",
+    "KWH60Forbruk": 0.672,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-29T04:00:00.000+01:00",
-    "to": "2022-12-29T05:00:00.000+01:00",
-    "consumption": 8.747,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-12 08:00",
+    "Til": "2023-01-12 09:00",
+    "KWH60Forbruk": 0.718,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-29T05:00:00.000+01:00",
-    "to": "2022-12-29T06:00:00.000+01:00",
-    "consumption": 7.968,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-12 09:00",
+    "Til": "2023-01-12 10:00",
+    "KWH60Forbruk": 0.719,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-29T06:00:00.000+01:00",
-    "to": "2022-12-29T07:00:00.000+01:00",
-    "consumption": 4.913,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-12 10:00",
+    "Til": "2023-01-12 11:00",
+    "KWH60Forbruk": 0.777,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-29T07:00:00.000+01:00",
-    "to": "2022-12-29T08:00:00.000+01:00",
-    "consumption": 2.405,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-12 11:00",
+    "Til": "2023-01-12 12:00",
+    "KWH60Forbruk": 1.082,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-29T08:00:00.000+01:00",
-    "to": "2022-12-29T09:00:00.000+01:00",
-    "consumption": 2.547,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-12 12:00",
+    "Til": "2023-01-12 13:00",
+    "KWH60Forbruk": 1.391,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-29T09:00:00.000+01:00",
-    "to": "2022-12-29T10:00:00.000+01:00",
-    "consumption": 3.312,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-12 13:00",
+    "Til": "2023-01-12 14:00",
+    "KWH60Forbruk": 1.848,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-29T10:00:00.000+01:00",
-    "to": "2022-12-29T11:00:00.000+01:00",
-    "consumption": 4.29,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-12 14:00",
+    "Til": "2023-01-12 15:00",
+    "KWH60Forbruk": 0.951,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-29T11:00:00.000+01:00",
-    "to": "2022-12-29T12:00:00.000+01:00",
-    "consumption": 1.057,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-12 15:00",
+    "Til": "2023-01-12 16:00",
+    "KWH60Forbruk": 0.982,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-29T12:00:00.000+01:00",
-    "to": "2022-12-29T13:00:00.000+01:00",
-    "consumption": 1.317,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-12 16:00",
+    "Til": "2023-01-12 17:00",
+    "KWH60Forbruk": 1.813,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-29T13:00:00.000+01:00",
-    "to": "2022-12-29T14:00:00.000+01:00",
-    "consumption": 1.297,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-12 17:00",
+    "Til": "2023-01-12 18:00",
+    "KWH60Forbruk": 2.051,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-29T14:00:00.000+01:00",
-    "to": "2022-12-29T15:00:00.000+01:00",
-    "consumption": 1.295,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-12 18:00",
+    "Til": "2023-01-12 19:00",
+    "KWH60Forbruk": 1.175,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-29T15:00:00.000+01:00",
-    "to": "2022-12-29T16:00:00.000+01:00",
-    "consumption": 1.279,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-12 19:00",
+    "Til": "2023-01-12 20:00",
+    "KWH60Forbruk": 0.785,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-29T16:00:00.000+01:00",
-    "to": "2022-12-29T17:00:00.000+01:00",
-    "consumption": 1.142,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-12 20:00",
+    "Til": "2023-01-12 21:00",
+    "KWH60Forbruk": 0.833,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-29T17:00:00.000+01:00",
-    "to": "2022-12-29T18:00:00.000+01:00",
-    "consumption": 1.37,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-12 21:00",
+    "Til": "2023-01-12 22:00",
+    "KWH60Forbruk": 0.968,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-29T18:00:00.000+01:00",
-    "to": "2022-12-29T19:00:00.000+01:00",
-    "consumption": 1.462,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-12 22:00",
+    "Til": "2023-01-12 23:00",
+    "KWH60Forbruk": 1.158,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-29T19:00:00.000+01:00",
-    "to": "2022-12-29T20:00:00.000+01:00",
-    "consumption": 0.904,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-12 23:00",
+    "Til": "2023-01-13 00:00",
+    "KWH60Forbruk": 0.787,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-29T20:00:00.000+01:00",
-    "to": "2022-12-29T21:00:00.000+01:00",
-    "consumption": 1.251,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-13 00:00",
+    "Til": "2023-01-13 01:00",
+    "KWH60Forbruk": 0.744,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-29T21:00:00.000+01:00",
-    "to": "2022-12-29T22:00:00.000+01:00",
-    "consumption": 1.62,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-13 01:00",
+    "Til": "2023-01-13 02:00",
+    "KWH60Forbruk": 0.715,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-29T22:00:00.000+01:00",
-    "to": "2022-12-29T23:00:00.000+01:00",
-    "consumption": 3.535,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-13 02:00",
+    "Til": "2023-01-13 03:00",
+    "KWH60Forbruk": 0.705,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-29T23:00:00.000+01:00",
-    "to": "2022-12-30T00:00:00.000+01:00",
-    "consumption": 3.759,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-13 03:00",
+    "Til": "2023-01-13 04:00",
+    "KWH60Forbruk": 0.652,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-30T00:00:00.000+01:00",
-    "to": "2022-12-30T01:00:00.000+01:00",
-    "consumption": 3.63,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-13 04:00",
+    "Til": "2023-01-13 05:00",
+    "KWH60Forbruk": 0.678,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-30T01:00:00.000+01:00",
-    "to": "2022-12-30T02:00:00.000+01:00",
-    "consumption": 2.813,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-13 05:00",
+    "Til": "2023-01-13 06:00",
+    "KWH60Forbruk": 0.738,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-30T02:00:00.000+01:00",
-    "to": "2022-12-30T03:00:00.000+01:00",
-    "consumption": 2.422,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-13 06:00",
+    "Til": "2023-01-13 07:00",
+    "KWH60Forbruk": 0.722,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-30T03:00:00.000+01:00",
-    "to": "2022-12-30T04:00:00.000+01:00",
-    "consumption": 1.109,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-13 07:00",
+    "Til": "2023-01-13 08:00",
+    "KWH60Forbruk": 0.655,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-30T04:00:00.000+01:00",
-    "to": "2022-12-30T05:00:00.000+01:00",
-    "consumption": 1.136,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-13 08:00",
+    "Til": "2023-01-13 09:00",
+    "KWH60Forbruk": 0.783,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-30T05:00:00.000+01:00",
-    "to": "2022-12-30T06:00:00.000+01:00",
-    "consumption": 0.939,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-13 09:00",
+    "Til": "2023-01-13 10:00",
+    "KWH60Forbruk": 0.692,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-30T06:00:00.000+01:00",
-    "to": "2022-12-30T07:00:00.000+01:00",
-    "consumption": 0.905,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-13 10:00",
+    "Til": "2023-01-13 11:00",
+    "KWH60Forbruk": 0.584,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-30T07:00:00.000+01:00",
-    "to": "2022-12-30T08:00:00.000+01:00",
-    "consumption": 1.675,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-13 11:00",
+    "Til": "2023-01-13 12:00",
+    "KWH60Forbruk": 0.619,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-30T08:00:00.000+01:00",
-    "to": "2022-12-30T09:00:00.000+01:00",
-    "consumption": 1.127,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-13 12:00",
+    "Til": "2023-01-13 13:00",
+    "KWH60Forbruk": 0.656,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-30T09:00:00.000+01:00",
-    "to": "2022-12-30T10:00:00.000+01:00",
-    "consumption": 1.235,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-13 13:00",
+    "Til": "2023-01-13 14:00",
+    "KWH60Forbruk": 0.58,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-30T10:00:00.000+01:00",
-    "to": "2022-12-30T11:00:00.000+01:00",
-    "consumption": 1.284,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-13 14:00",
+    "Til": "2023-01-13 15:00",
+    "KWH60Forbruk": 0.812,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-30T11:00:00.000+01:00",
-    "to": "2022-12-30T12:00:00.000+01:00",
-    "consumption": 0.86,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-13 15:00",
+    "Til": "2023-01-13 16:00",
+    "KWH60Forbruk": 1.084,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-30T12:00:00.000+01:00",
-    "to": "2022-12-30T13:00:00.000+01:00",
-    "consumption": 1.02,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-13 16:00",
+    "Til": "2023-01-13 17:00",
+    "KWH60Forbruk": 1.102,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-30T13:00:00.000+01:00",
-    "to": "2022-12-30T14:00:00.000+01:00",
-    "consumption": 1.118,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-13 17:00",
+    "Til": "2023-01-13 18:00",
+    "KWH60Forbruk": 0.71,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-30T14:00:00.000+01:00",
-    "to": "2022-12-30T15:00:00.000+01:00",
-    "consumption": 1.359,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-13 18:00",
+    "Til": "2023-01-13 19:00",
+    "KWH60Forbruk": 0.965,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-30T15:00:00.000+01:00",
-    "to": "2022-12-30T16:00:00.000+01:00",
-    "consumption": 1.333,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-13 19:00",
+    "Til": "2023-01-13 20:00",
+    "KWH60Forbruk": 2.216,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-30T16:00:00.000+01:00",
-    "to": "2022-12-30T17:00:00.000+01:00",
-    "consumption": 1.352,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-13 20:00",
+    "Til": "2023-01-13 21:00",
+    "KWH60Forbruk": 0.804,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-30T17:00:00.000+01:00",
-    "to": "2022-12-30T18:00:00.000+01:00",
-    "consumption": 1.432,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-13 21:00",
+    "Til": "2023-01-13 22:00",
+    "KWH60Forbruk": 1.057,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-30T18:00:00.000+01:00",
-    "to": "2022-12-30T19:00:00.000+01:00",
-    "consumption": 2.659,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-13 22:00",
+    "Til": "2023-01-13 23:00",
+    "KWH60Forbruk": 1.387,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-30T19:00:00.000+01:00",
-    "to": "2022-12-30T20:00:00.000+01:00",
-    "consumption": 2.904,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-13 23:00",
+    "Til": "2023-01-14 00:00",
+    "KWH60Forbruk": 0.974,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-30T20:00:00.000+01:00",
-    "to": "2022-12-30T21:00:00.000+01:00",
-    "consumption": 2.948,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-14 00:00",
+    "Til": "2023-01-14 01:00",
+    "KWH60Forbruk": 0.715,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-30T21:00:00.000+01:00",
-    "to": "2022-12-30T22:00:00.000+01:00",
-    "consumption": 4.047,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-14 01:00",
+    "Til": "2023-01-14 02:00",
+    "KWH60Forbruk": 0.675,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-30T22:00:00.000+01:00",
-    "to": "2022-12-30T23:00:00.000+01:00",
-    "consumption": 3.608,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-14 02:00",
+    "Til": "2023-01-14 03:00",
+    "KWH60Forbruk": 0.975,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-30T23:00:00.000+01:00",
-    "to": "2022-12-31T00:00:00.000+01:00",
-    "consumption": 7.48,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-14 03:00",
+    "Til": "2023-01-14 04:00",
+    "KWH60Forbruk": 0.58,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-31T00:00:00.000+01:00",
-    "to": "2022-12-31T01:00:00.000+01:00",
-    "consumption": 3.756,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-14 04:00",
+    "Til": "2023-01-14 05:00",
+    "KWH60Forbruk": 0.637,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-31T01:00:00.000+01:00",
-    "to": "2022-12-31T02:00:00.000+01:00",
-    "consumption": 2.888,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-14 05:00",
+    "Til": "2023-01-14 06:00",
+    "KWH60Forbruk": 1.02,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-31T02:00:00.000+01:00",
-    "to": "2022-12-31T03:00:00.000+01:00",
-    "consumption": 12.239,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-14 06:00",
+    "Til": "2023-01-14 07:00",
+    "KWH60Forbruk": 0.674,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-31T03:00:00.000+01:00",
-    "to": "2022-12-31T04:00:00.000+01:00",
-    "consumption": 13.214,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-14 07:00",
+    "Til": "2023-01-14 08:00",
+    "KWH60Forbruk": 0.6,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-31T04:00:00.000+01:00",
-    "to": "2022-12-31T05:00:00.000+01:00",
-    "consumption": 13.351,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-14 08:00",
+    "Til": "2023-01-14 09:00",
+    "KWH60Forbruk": 0.657,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-31T05:00:00.000+01:00",
-    "to": "2022-12-31T06:00:00.000+01:00",
-    "consumption": 9.109,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-14 09:00",
+    "Til": "2023-01-14 10:00",
+    "KWH60Forbruk": 0.95,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-31T06:00:00.000+01:00",
-    "to": "2022-12-31T07:00:00.000+01:00",
-    "consumption": 2.532,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-14 10:00",
+    "Til": "2023-01-14 11:00",
+    "KWH60Forbruk": 0.741,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-31T07:00:00.000+01:00",
-    "to": "2022-12-31T08:00:00.000+01:00",
-    "consumption": 2.672,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-14 11:00",
+    "Til": "2023-01-14 12:00",
+    "KWH60Forbruk": 1.363,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-31T08:00:00.000+01:00",
-    "to": "2022-12-31T09:00:00.000+01:00",
-    "consumption": 4.315,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-14 12:00",
+    "Til": "2023-01-14 13:00",
+    "KWH60Forbruk": 1.203,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-31T09:00:00.000+01:00",
-    "to": "2022-12-31T10:00:00.000+01:00",
-    "consumption": 2.935,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-14 13:00",
+    "Til": "2023-01-14 14:00",
+    "KWH60Forbruk": 1.44,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-31T10:00:00.000+01:00",
-    "to": "2022-12-31T11:00:00.000+01:00",
-    "consumption": 3.758,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-14 14:00",
+    "Til": "2023-01-14 15:00",
+    "KWH60Forbruk": 0.636,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-31T11:00:00.000+01:00",
-    "to": "2022-12-31T12:00:00.000+01:00",
-    "consumption": 4.524,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-14 15:00",
+    "Til": "2023-01-14 16:00",
+    "KWH60Forbruk": 0.746,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-31T12:00:00.000+01:00",
-    "to": "2022-12-31T13:00:00.000+01:00",
-    "consumption": 4.542,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-14 16:00",
+    "Til": "2023-01-14 17:00",
+    "KWH60Forbruk": 1.058,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-31T13:00:00.000+01:00",
-    "to": "2022-12-31T14:00:00.000+01:00",
-    "consumption": 3.164,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-14 17:00",
+    "Til": "2023-01-14 18:00",
+    "KWH60Forbruk": 1.49,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-31T14:00:00.000+01:00",
-    "to": "2022-12-31T15:00:00.000+01:00",
-    "consumption": 3.734,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-14 18:00",
+    "Til": "2023-01-14 19:00",
+    "KWH60Forbruk": 0.913,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-31T15:00:00.000+01:00",
-    "to": "2022-12-31T16:00:00.000+01:00",
-    "consumption": 4.262,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-14 19:00",
+    "Til": "2023-01-14 20:00",
+    "KWH60Forbruk": 0.986,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-31T16:00:00.000+01:00",
-    "to": "2022-12-31T17:00:00.000+01:00",
-    "consumption": 2.556,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-14 20:00",
+    "Til": "2023-01-14 21:00",
+    "KWH60Forbruk": 0.981,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-31T17:00:00.000+01:00",
-    "to": "2022-12-31T18:00:00.000+01:00",
-    "consumption": 3.322,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-14 21:00",
+    "Til": "2023-01-14 22:00",
+    "KWH60Forbruk": 0.981,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-31T18:00:00.000+01:00",
-    "to": "2022-12-31T19:00:00.000+01:00",
-    "consumption": 2.42,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-14 22:00",
+    "Til": "2023-01-14 23:00",
+    "KWH60Forbruk": 0.975,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-31T19:00:00.000+01:00",
-    "to": "2022-12-31T20:00:00.000+01:00",
-    "consumption": 4.409,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-14 23:00",
+    "Til": "2023-01-15 00:00",
+    "KWH60Forbruk": 0.969,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-31T20:00:00.000+01:00",
-    "to": "2022-12-31T21:00:00.000+01:00",
-    "consumption": 2.609,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-15 00:00",
+    "Til": "2023-01-15 01:00",
+    "KWH60Forbruk": 0.894,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-31T21:00:00.000+01:00",
-    "to": "2022-12-31T22:00:00.000+01:00",
-    "consumption": 1.778,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-15 01:00",
+    "Til": "2023-01-15 02:00",
+    "KWH60Forbruk": 0.957,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-31T22:00:00.000+01:00",
-    "to": "2022-12-31T23:00:00.000+01:00",
-    "consumption": 3.936,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-15 02:00",
+    "Til": "2023-01-15 03:00",
+    "KWH60Forbruk": 0.861,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2022-12-31T23:00:00.000+01:00",
-    "to": "2023-01-01T00:00:00.000+01:00",
-    "consumption": 3.315,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-15 03:00",
+    "Til": "2023-01-15 04:00",
+    "KWH60Forbruk": 0.653,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-01T00:00:00.000+01:00",
-    "to": "2023-01-01T01:00:00.000+01:00",
-    "consumption": 1.544,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-15 04:00",
+    "Til": "2023-01-15 05:00",
+    "KWH60Forbruk": 0.684,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-01T01:00:00.000+01:00",
-    "to": "2023-01-01T02:00:00.000+01:00",
-    "consumption": 1.513,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-15 05:00",
+    "Til": "2023-01-15 06:00",
+    "KWH60Forbruk": 0.67,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-01T02:00:00.000+01:00",
-    "to": "2023-01-01T03:00:00.000+01:00",
-    "consumption": 1.806,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-15 06:00",
+    "Til": "2023-01-15 07:00",
+    "KWH60Forbruk": 0.805,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-01T03:00:00.000+01:00",
-    "to": "2023-01-01T04:00:00.000+01:00",
-    "consumption": 1.883,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-15 07:00",
+    "Til": "2023-01-15 08:00",
+    "KWH60Forbruk": 0.646,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-01T04:00:00.000+01:00",
-    "to": "2023-01-01T05:00:00.000+01:00",
-    "consumption": 2.504,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-15 08:00",
+    "Til": "2023-01-15 09:00",
+    "KWH60Forbruk": 0.605,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-01T05:00:00.000+01:00",
-    "to": "2023-01-01T06:00:00.000+01:00",
-    "consumption": 2.23,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-15 09:00",
+    "Til": "2023-01-15 10:00",
+    "KWH60Forbruk": 0.603,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-01T06:00:00.000+01:00",
-    "to": "2023-01-01T07:00:00.000+01:00",
-    "consumption": 2.135,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-15 10:00",
+    "Til": "2023-01-15 11:00",
+    "KWH60Forbruk": 0.612,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-01T07:00:00.000+01:00",
-    "to": "2023-01-01T08:00:00.000+01:00",
-    "consumption": 2.626,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-15 11:00",
+    "Til": "2023-01-15 12:00",
+    "KWH60Forbruk": 0.914,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-01T08:00:00.000+01:00",
-    "to": "2023-01-01T09:00:00.000+01:00",
-    "consumption": 2.415,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-15 12:00",
+    "Til": "2023-01-15 13:00",
+    "KWH60Forbruk": 0.794,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-01T09:00:00.000+01:00",
-    "to": "2023-01-01T10:00:00.000+01:00",
-    "consumption": 3.706,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-15 13:00",
+    "Til": "2023-01-15 14:00",
+    "KWH60Forbruk": 1.003,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-01T10:00:00.000+01:00",
-    "to": "2023-01-01T11:00:00.000+01:00",
-    "consumption": 2.23,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-15 14:00",
+    "Til": "2023-01-15 15:00",
+    "KWH60Forbruk": 0.921,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-01T11:00:00.000+01:00",
-    "to": "2023-01-01T12:00:00.000+01:00",
-    "consumption": 1.949,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-15 15:00",
+    "Til": "2023-01-15 16:00",
+    "KWH60Forbruk": 0.874,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-01T12:00:00.000+01:00",
-    "to": "2023-01-01T13:00:00.000+01:00",
-    "consumption": 2.212,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-15 16:00",
+    "Til": "2023-01-15 17:00",
+    "KWH60Forbruk": 1.04,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-01T13:00:00.000+01:00",
-    "to": "2023-01-01T14:00:00.000+01:00",
-    "consumption": 2.772,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-15 17:00",
+    "Til": "2023-01-15 18:00",
+    "KWH60Forbruk": 1.08,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-01T14:00:00.000+01:00",
-    "to": "2023-01-01T15:00:00.000+01:00",
-    "consumption": 9.017,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-15 18:00",
+    "Til": "2023-01-15 19:00",
+    "KWH60Forbruk": 0.886,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-01T15:00:00.000+01:00",
-    "to": "2023-01-01T16:00:00.000+01:00",
-    "consumption": 8.269,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-15 19:00",
+    "Til": "2023-01-15 20:00",
+    "KWH60Forbruk": 0.968,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-01T16:00:00.000+01:00",
-    "to": "2023-01-01T17:00:00.000+01:00",
-    "consumption": 2.754,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-15 20:00",
+    "Til": "2023-01-15 21:00",
+    "KWH60Forbruk": 1.058,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-01T17:00:00.000+01:00",
-    "to": "2023-01-01T18:00:00.000+01:00",
-    "consumption": 2.556,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-15 21:00",
+    "Til": "2023-01-15 22:00",
+    "KWH60Forbruk": 1.206,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-01T18:00:00.000+01:00",
-    "to": "2023-01-01T19:00:00.000+01:00",
-    "consumption": 4.193,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-15 22:00",
+    "Til": "2023-01-15 23:00",
+    "KWH60Forbruk": 1.093,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-01T19:00:00.000+01:00",
-    "to": "2023-01-01T20:00:00.000+01:00",
-    "consumption": 2.651,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-15 23:00",
+    "Til": "2023-01-16 00:00",
+    "KWH60Forbruk": 0.62,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-01T20:00:00.000+01:00",
-    "to": "2023-01-01T21:00:00.000+01:00",
-    "consumption": 3.429,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-16 00:00",
+    "Til": "2023-01-16 01:00",
+    "KWH60Forbruk": 0.593,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-01T21:00:00.000+01:00",
-    "to": "2023-01-01T22:00:00.000+01:00",
-    "consumption": 3.329,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-16 01:00",
+    "Til": "2023-01-16 02:00",
+    "KWH60Forbruk": 0.618,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-01T22:00:00.000+01:00",
-    "to": "2023-01-01T23:00:00.000+01:00",
-    "consumption": 3.807,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-16 02:00",
+    "Til": "2023-01-16 03:00",
+    "KWH60Forbruk": 0.66,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-01T23:00:00.000+01:00",
-    "to": "2023-01-02T00:00:00.000+01:00",
-    "consumption": 3.702,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-16 03:00",
+    "Til": "2023-01-16 04:00",
+    "KWH60Forbruk": 0.649,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-02T00:00:00.000+01:00",
-    "to": "2023-01-02T01:00:00.000+01:00",
-    "consumption": 4.527,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-16 04:00",
+    "Til": "2023-01-16 05:00",
+    "KWH60Forbruk": 0.644,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-02T01:00:00.000+01:00",
-    "to": "2023-01-02T02:00:00.000+01:00",
-    "consumption": 3.447,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-16 05:00",
+    "Til": "2023-01-16 06:00",
+    "KWH60Forbruk": 0.576,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-02T02:00:00.000+01:00",
-    "to": "2023-01-02T03:00:00.000+01:00",
-    "consumption": 3.063,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-16 06:00",
+    "Til": "2023-01-16 07:00",
+    "KWH60Forbruk": 0.57,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-02T03:00:00.000+01:00",
-    "to": "2023-01-02T04:00:00.000+01:00",
-    "consumption": 3.555,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-16 07:00",
+    "Til": "2023-01-16 08:00",
+    "KWH60Forbruk": 0.628,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-02T04:00:00.000+01:00",
-    "to": "2023-01-02T05:00:00.000+01:00",
-    "consumption": 3.255,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-16 08:00",
+    "Til": "2023-01-16 09:00",
+    "KWH60Forbruk": 0.845,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-02T05:00:00.000+01:00",
-    "to": "2023-01-02T06:00:00.000+01:00",
-    "consumption": 3.024,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-16 09:00",
+    "Til": "2023-01-16 10:00",
+    "KWH60Forbruk": 1.141,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-02T06:00:00.000+01:00",
-    "to": "2023-01-02T07:00:00.000+01:00",
-    "consumption": 2.92,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-16 10:00",
+    "Til": "2023-01-16 11:00",
+    "KWH60Forbruk": 0.993,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-02T07:00:00.000+01:00",
-    "to": "2023-01-02T08:00:00.000+01:00",
-    "consumption": 2.847,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-16 11:00",
+    "Til": "2023-01-16 12:00",
+    "KWH60Forbruk": 0.605,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-02T08:00:00.000+01:00",
-    "to": "2023-01-02T09:00:00.000+01:00",
-    "consumption": 2.135,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-16 12:00",
+    "Til": "2023-01-16 13:00",
+    "KWH60Forbruk": 1.064,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-02T09:00:00.000+01:00",
-    "to": "2023-01-02T10:00:00.000+01:00",
-    "consumption": 2.421,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-16 13:00",
+    "Til": "2023-01-16 14:00",
+    "KWH60Forbruk": 1.003,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-02T10:00:00.000+01:00",
-    "to": "2023-01-02T11:00:00.000+01:00",
-    "consumption": 3.36,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-16 14:00",
+    "Til": "2023-01-16 15:00",
+    "KWH60Forbruk": 1.142,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-02T11:00:00.000+01:00",
-    "to": "2023-01-02T12:00:00.000+01:00",
-    "consumption": 3.924,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-16 15:00",
+    "Til": "2023-01-16 16:00",
+    "KWH60Forbruk": 0.836,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-02T12:00:00.000+01:00",
-    "to": "2023-01-02T13:00:00.000+01:00",
-    "consumption": 2.022,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-16 16:00",
+    "Til": "2023-01-16 17:00",
+    "KWH60Forbruk": 0.628,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-02T13:00:00.000+01:00",
-    "to": "2023-01-02T14:00:00.000+01:00",
-    "consumption": 2.087,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-16 17:00",
+    "Til": "2023-01-16 18:00",
+    "KWH60Forbruk": 0.635,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-02T14:00:00.000+01:00",
-    "to": "2023-01-02T15:00:00.000+01:00",
-    "consumption": 1.9,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-16 18:00",
+    "Til": "2023-01-16 19:00",
+    "KWH60Forbruk": 1.351,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-02T15:00:00.000+01:00",
-    "to": "2023-01-02T16:00:00.000+01:00",
-    "consumption": 1.685,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-16 19:00",
+    "Til": "2023-01-16 20:00",
+    "KWH60Forbruk": 1.312,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-02T16:00:00.000+01:00",
-    "to": "2023-01-02T17:00:00.000+01:00",
-    "consumption": 2.094,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-16 20:00",
+    "Til": "2023-01-16 21:00",
+    "KWH60Forbruk": 1.048,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-02T17:00:00.000+01:00",
-    "to": "2023-01-02T18:00:00.000+01:00",
-    "consumption": 3.13,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-16 21:00",
+    "Til": "2023-01-16 22:00",
+    "KWH60Forbruk": 1.027,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-02T18:00:00.000+01:00",
-    "to": "2023-01-02T19:00:00.000+01:00",
-    "consumption": 1.827,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-16 22:00",
+    "Til": "2023-01-16 23:00",
+    "KWH60Forbruk": 1.502,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-02T19:00:00.000+01:00",
-    "to": "2023-01-02T20:00:00.000+01:00",
-    "consumption": 1.777,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-16 23:00",
+    "Til": "2023-01-17 00:00",
+    "KWH60Forbruk": 1.052,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-02T20:00:00.000+01:00",
-    "to": "2023-01-02T21:00:00.000+01:00",
-    "consumption": 1.848,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-17 00:00",
+    "Til": "2023-01-17 01:00",
+    "KWH60Forbruk": 0.629,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-02T21:00:00.000+01:00",
-    "to": "2023-01-02T22:00:00.000+01:00",
-    "consumption": 2.15,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-17 01:00",
+    "Til": "2023-01-17 02:00",
+    "KWH60Forbruk": 0.631,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-02T22:00:00.000+01:00",
-    "to": "2023-01-02T23:00:00.000+01:00",
-    "consumption": 4.304,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-17 02:00",
+    "Til": "2023-01-17 03:00",
+    "KWH60Forbruk": 0.576,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-02T23:00:00.000+01:00",
-    "to": "2023-01-03T00:00:00.000+01:00",
-    "consumption": 3.555,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-17 03:00",
+    "Til": "2023-01-17 04:00",
+    "KWH60Forbruk": 0.629,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-03T00:00:00.000+01:00",
-    "to": "2023-01-03T01:00:00.000+01:00",
-    "consumption": 3.106,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-17 04:00",
+    "Til": "2023-01-17 05:00",
+    "KWH60Forbruk": 0.602,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-03T01:00:00.000+01:00",
-    "to": "2023-01-03T02:00:00.000+01:00",
-    "consumption": 3.808,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-17 05:00",
+    "Til": "2023-01-17 06:00",
+    "KWH60Forbruk": 0.573,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-03T02:00:00.000+01:00",
-    "to": "2023-01-03T03:00:00.000+01:00",
-    "consumption": 4.392,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-17 06:00",
+    "Til": "2023-01-17 07:00",
+    "KWH60Forbruk": 1.183,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-03T03:00:00.000+01:00",
-    "to": "2023-01-03T04:00:00.000+01:00",
-    "consumption": 3.343,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-17 07:00",
+    "Til": "2023-01-17 08:00",
+    "KWH60Forbruk": 1.085,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-03T04:00:00.000+01:00",
-    "to": "2023-01-03T05:00:00.000+01:00",
-    "consumption": 3.225,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-17 08:00",
+    "Til": "2023-01-17 09:00",
+    "KWH60Forbruk": 1.051,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-03T05:00:00.000+01:00",
-    "to": "2023-01-03T06:00:00.000+01:00",
-    "consumption": 3.195,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-17 09:00",
+    "Til": "2023-01-17 10:00",
+    "KWH60Forbruk": 1.208,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-03T06:00:00.000+01:00",
-    "to": "2023-01-03T07:00:00.000+01:00",
-    "consumption": 3.154,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-17 10:00",
+    "Til": "2023-01-17 11:00",
+    "KWH60Forbruk": 0.667,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-03T07:00:00.000+01:00",
-    "to": "2023-01-03T08:00:00.000+01:00",
-    "consumption": 2.898,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-17 11:00",
+    "Til": "2023-01-17 12:00",
+    "KWH60Forbruk": 0.6,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-03T08:00:00.000+01:00",
-    "to": "2023-01-03T09:00:00.000+01:00",
-    "consumption": 2.75,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-17 12:00",
+    "Til": "2023-01-17 13:00",
+    "KWH60Forbruk": 0.891,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-03T09:00:00.000+01:00",
-    "to": "2023-01-03T10:00:00.000+01:00",
-    "consumption": 2.729,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-17 13:00",
+    "Til": "2023-01-17 14:00",
+    "KWH60Forbruk": 0.665,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-03T10:00:00.000+01:00",
-    "to": "2023-01-03T11:00:00.000+01:00",
-    "consumption": 2.382,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-17 14:00",
+    "Til": "2023-01-17 15:00",
+    "KWH60Forbruk": 0.627,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-03T11:00:00.000+01:00",
-    "to": "2023-01-03T12:00:00.000+01:00",
-    "consumption": 1.229,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-17 15:00",
+    "Til": "2023-01-17 16:00",
+    "KWH60Forbruk": 0.703,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-03T12:00:00.000+01:00",
-    "to": "2023-01-03T13:00:00.000+01:00",
-    "consumption": 1.9,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-17 16:00",
+    "Til": "2023-01-17 17:00",
+    "KWH60Forbruk": 0.735,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-03T13:00:00.000+01:00",
-    "to": "2023-01-03T14:00:00.000+01:00",
-    "consumption": 2.222,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-17 17:00",
+    "Til": "2023-01-17 18:00",
+    "KWH60Forbruk": 1.332,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-03T14:00:00.000+01:00",
-    "to": "2023-01-03T15:00:00.000+01:00",
-    "consumption": 2.987,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-17 18:00",
+    "Til": "2023-01-17 19:00",
+    "KWH60Forbruk": 0.823,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-03T15:00:00.000+01:00",
-    "to": "2023-01-03T16:00:00.000+01:00",
-    "consumption": 2.49,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-17 19:00",
+    "Til": "2023-01-17 20:00",
+    "KWH60Forbruk": 0.842,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-03T16:00:00.000+01:00",
-    "to": "2023-01-03T17:00:00.000+01:00",
-    "consumption": 3.19,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-17 20:00",
+    "Til": "2023-01-17 21:00",
+    "KWH60Forbruk": 0.817,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-03T17:00:00.000+01:00",
-    "to": "2023-01-03T18:00:00.000+01:00",
-    "consumption": 3.792,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-17 21:00",
+    "Til": "2023-01-17 22:00",
+    "KWH60Forbruk": 0.65,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-03T18:00:00.000+01:00",
-    "to": "2023-01-03T19:00:00.000+01:00",
-    "consumption": 2.702,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-17 22:00",
+    "Til": "2023-01-17 23:00",
+    "KWH60Forbruk": 0.598,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-03T19:00:00.000+01:00",
-    "to": "2023-01-03T20:00:00.000+01:00",
-    "consumption": 2.538,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-17 23:00",
+    "Til": "2023-01-18 00:00",
+    "KWH60Forbruk": 0.847,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-03T20:00:00.000+01:00",
-    "to": "2023-01-03T21:00:00.000+01:00",
-    "consumption": 2.705,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-18 00:00",
+    "Til": "2023-01-18 01:00",
+    "KWH60Forbruk": 1.006,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-03T21:00:00.000+01:00",
-    "to": "2023-01-03T22:00:00.000+01:00",
-    "consumption": 2.931,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-18 01:00",
+    "Til": "2023-01-18 02:00",
+    "KWH60Forbruk": 0.527,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-03T22:00:00.000+01:00",
-    "to": "2023-01-03T23:00:00.000+01:00",
-    "consumption": 4.576,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-18 02:00",
+    "Til": "2023-01-18 03:00",
+    "KWH60Forbruk": 0.621,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-03T23:00:00.000+01:00",
-    "to": "2023-01-04T00:00:00.000+01:00",
-    "consumption": 3.919,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-18 03:00",
+    "Til": "2023-01-18 04:00",
+    "KWH60Forbruk": 0.683,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-04T00:00:00.000+01:00",
-    "to": "2023-01-04T01:00:00.000+01:00",
-    "consumption": 3.781,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-18 04:00",
+    "Til": "2023-01-18 05:00",
+    "KWH60Forbruk": 0.603,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-04T01:00:00.000+01:00",
-    "to": "2023-01-04T02:00:00.000+01:00",
-    "consumption": 3.487,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-18 05:00",
+    "Til": "2023-01-18 06:00",
+    "KWH60Forbruk": 0.636,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-04T02:00:00.000+01:00",
-    "to": "2023-01-04T03:00:00.000+01:00",
-    "consumption": 3.241,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-18 06:00",
+    "Til": "2023-01-18 07:00",
+    "KWH60Forbruk": 0.93,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-04T03:00:00.000+01:00",
-    "to": "2023-01-04T04:00:00.000+01:00",
-    "consumption": 7.154,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-18 07:00",
+    "Til": "2023-01-18 08:00",
+    "KWH60Forbruk": 0.664,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-04T04:00:00.000+01:00",
-    "to": "2023-01-04T05:00:00.000+01:00",
-    "consumption": 4.527,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-18 08:00",
+    "Til": "2023-01-18 09:00",
+    "KWH60Forbruk": 0.647,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-04T05:00:00.000+01:00",
-    "to": "2023-01-04T06:00:00.000+01:00",
-    "consumption": 4.306,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-18 09:00",
+    "Til": "2023-01-18 10:00",
+    "KWH60Forbruk": 0.626,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-04T06:00:00.000+01:00",
-    "to": "2023-01-04T07:00:00.000+01:00",
-    "consumption": 4.455,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-18 10:00",
+    "Til": "2023-01-18 11:00",
+    "KWH60Forbruk": 0.591,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-04T07:00:00.000+01:00",
-    "to": "2023-01-04T08:00:00.000+01:00",
-    "consumption": 4.295,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-18 11:00",
+    "Til": "2023-01-18 12:00",
+    "KWH60Forbruk": 0.651,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-04T08:00:00.000+01:00",
-    "to": "2023-01-04T09:00:00.000+01:00",
-    "consumption": 3.683,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-18 12:00",
+    "Til": "2023-01-18 13:00",
+    "KWH60Forbruk": 0.626,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-04T09:00:00.000+01:00",
-    "to": "2023-01-04T10:00:00.000+01:00",
-    "consumption": 3.577,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-18 13:00",
+    "Til": "2023-01-18 14:00",
+    "KWH60Forbruk": 0.588,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-04T10:00:00.000+01:00",
-    "to": "2023-01-04T11:00:00.000+01:00",
-    "consumption": 3.511,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-18 14:00",
+    "Til": "2023-01-18 15:00",
+    "KWH60Forbruk": 0.659,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-04T11:00:00.000+01:00",
-    "to": "2023-01-04T12:00:00.000+01:00",
-    "consumption": 3.3,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-18 15:00",
+    "Til": "2023-01-18 16:00",
+    "KWH60Forbruk": 0.609,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-04T12:00:00.000+01:00",
-    "to": "2023-01-04T13:00:00.000+01:00",
-    "consumption": 3.175,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-18 16:00",
+    "Til": "2023-01-18 17:00",
+    "KWH60Forbruk": 0.916,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-04T13:00:00.000+01:00",
-    "to": "2023-01-04T14:00:00.000+01:00",
-    "consumption": 3.045,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-18 17:00",
+    "Til": "2023-01-18 18:00",
+    "KWH60Forbruk": 0.914,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-04T14:00:00.000+01:00",
-    "to": "2023-01-04T15:00:00.000+01:00",
-    "consumption": 3.379,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-18 18:00",
+    "Til": "2023-01-18 19:00",
+    "KWH60Forbruk": 2.197,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-04T15:00:00.000+01:00",
-    "to": "2023-01-04T16:00:00.000+01:00",
-    "consumption": 3.809,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-18 19:00",
+    "Til": "2023-01-18 20:00",
+    "KWH60Forbruk": 1.589,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-04T16:00:00.000+01:00",
-    "to": "2023-01-04T17:00:00.000+01:00",
-    "consumption": 4.524,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-18 20:00",
+    "Til": "2023-01-18 21:00",
+    "KWH60Forbruk": 1.828,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-04T17:00:00.000+01:00",
-    "to": "2023-01-04T18:00:00.000+01:00",
-    "consumption": 2.579,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-18 21:00",
+    "Til": "2023-01-18 22:00",
+    "KWH60Forbruk": 1.646,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-04T18:00:00.000+01:00",
-    "to": "2023-01-04T19:00:00.000+01:00",
-    "consumption": 2.918,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-18 22:00",
+    "Til": "2023-01-18 23:00",
+    "KWH60Forbruk": 1.122,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-04T19:00:00.000+01:00",
-    "to": "2023-01-04T20:00:00.000+01:00",
-    "consumption": 2.761,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-18 23:00",
+    "Til": "2023-01-19 00:00",
+    "KWH60Forbruk": 1.077,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-04T20:00:00.000+01:00",
-    "to": "2023-01-04T21:00:00.000+01:00",
-    "consumption": 2.677,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-19 00:00",
+    "Til": "2023-01-19 01:00",
+    "KWH60Forbruk": 0.928,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-04T21:00:00.000+01:00",
-    "to": "2023-01-04T22:00:00.000+01:00",
-    "consumption": 2.897,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-19 01:00",
+    "Til": "2023-01-19 02:00",
+    "KWH60Forbruk": 0.933,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-04T22:00:00.000+01:00",
-    "to": "2023-01-04T23:00:00.000+01:00",
-    "consumption": 3.377,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-19 02:00",
+    "Til": "2023-01-19 03:00",
+    "KWH60Forbruk": 0.745,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-04T23:00:00.000+01:00",
-    "to": "2023-01-05T00:00:00.000+01:00",
-    "consumption": 12.59,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-19 03:00",
+    "Til": "2023-01-19 04:00",
+    "KWH60Forbruk": 0.562,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-05T00:00:00.000+01:00",
-    "to": "2023-01-05T01:00:00.000+01:00",
-    "consumption": 13.405,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-19 04:00",
+    "Til": "2023-01-19 05:00",
+    "KWH60Forbruk": 1.142,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-05T01:00:00.000+01:00",
-    "to": "2023-01-05T02:00:00.000+01:00",
-    "consumption": 13.426,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-19 05:00",
+    "Til": "2023-01-19 06:00",
+    "KWH60Forbruk": 0.671,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-05T02:00:00.000+01:00",
-    "to": "2023-01-05T03:00:00.000+01:00",
-    "consumption": 12.969,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-19 06:00",
+    "Til": "2023-01-19 07:00",
+    "KWH60Forbruk": 1.009,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-05T03:00:00.000+01:00",
-    "to": "2023-01-05T04:00:00.000+01:00",
-    "consumption": 4.483,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-19 07:00",
+    "Til": "2023-01-19 08:00",
+    "KWH60Forbruk": 1.452,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-05T04:00:00.000+01:00",
-    "to": "2023-01-05T05:00:00.000+01:00",
-    "consumption": 3.032,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-19 08:00",
+    "Til": "2023-01-19 09:00",
+    "KWH60Forbruk": 1.206,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-05T05:00:00.000+01:00",
-    "to": "2023-01-05T06:00:00.000+01:00",
-    "consumption": 3.193,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-19 09:00",
+    "Til": "2023-01-19 10:00",
+    "KWH60Forbruk": 1.13,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-05T06:00:00.000+01:00",
-    "to": "2023-01-05T07:00:00.000+01:00",
-    "consumption": 3.226,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-19 10:00",
+    "Til": "2023-01-19 11:00",
+    "KWH60Forbruk": 1.099,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-05T07:00:00.000+01:00",
-    "to": "2023-01-05T08:00:00.000+01:00",
-    "consumption": 3.234,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-19 11:00",
+    "Til": "2023-01-19 12:00",
+    "KWH60Forbruk": 1.401,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-05T08:00:00.000+01:00",
-    "to": "2023-01-05T09:00:00.000+01:00",
-    "consumption": 3.436,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-19 12:00",
+    "Til": "2023-01-19 13:00",
+    "KWH60Forbruk": 0.77,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-05T09:00:00.000+01:00",
-    "to": "2023-01-05T10:00:00.000+01:00",
-    "consumption": 2.373,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-19 13:00",
+    "Til": "2023-01-19 14:00",
+    "KWH60Forbruk": 0.679,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-05T10:00:00.000+01:00",
-    "to": "2023-01-05T11:00:00.000+01:00",
-    "consumption": 1.687,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-19 14:00",
+    "Til": "2023-01-19 15:00",
+    "KWH60Forbruk": 0.753,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-05T11:00:00.000+01:00",
-    "to": "2023-01-05T12:00:00.000+01:00",
-    "consumption": 3.845,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-19 15:00",
+    "Til": "2023-01-19 16:00",
+    "KWH60Forbruk": 1.402,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-05T12:00:00.000+01:00",
-    "to": "2023-01-05T13:00:00.000+01:00",
-    "consumption": 3.226,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-19 16:00",
+    "Til": "2023-01-19 17:00",
+    "KWH60Forbruk": 1.203,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-05T13:00:00.000+01:00",
-    "to": "2023-01-05T14:00:00.000+01:00",
-    "consumption": 2.742,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-19 17:00",
+    "Til": "2023-01-19 18:00",
+    "KWH60Forbruk": 1.131,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-05T14:00:00.000+01:00",
-    "to": "2023-01-05T15:00:00.000+01:00",
-    "consumption": 2.909,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-19 18:00",
+    "Til": "2023-01-19 19:00",
+    "KWH60Forbruk": 0.977,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-05T15:00:00.000+01:00",
-    "to": "2023-01-05T16:00:00.000+01:00",
-    "consumption": 2.909,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-19 19:00",
+    "Til": "2023-01-19 20:00",
+    "KWH60Forbruk": 0.883,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-05T16:00:00.000+01:00",
-    "to": "2023-01-05T17:00:00.000+01:00",
-    "consumption": 3.548,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-19 20:00",
+    "Til": "2023-01-19 21:00",
+    "KWH60Forbruk": 0.8,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-05T17:00:00.000+01:00",
-    "to": "2023-01-05T18:00:00.000+01:00",
-    "consumption": 2.784,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-19 21:00",
+    "Til": "2023-01-19 22:00",
+    "KWH60Forbruk": 0.744,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-05T18:00:00.000+01:00",
-    "to": "2023-01-05T19:00:00.000+01:00",
-    "consumption": 1.899,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-19 22:00",
+    "Til": "2023-01-19 23:00",
+    "KWH60Forbruk": 0.694,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-05T19:00:00.000+01:00",
-    "to": "2023-01-05T20:00:00.000+01:00",
-    "consumption": 2.116,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-19 23:00",
+    "Til": "2023-01-20 00:00",
+    "KWH60Forbruk": 1.167,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-05T20:00:00.000+01:00",
-    "to": "2023-01-05T21:00:00.000+01:00",
-    "consumption": 2.436,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-20 00:00",
+    "Til": "2023-01-20 01:00",
+    "KWH60Forbruk": 1.34,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-05T21:00:00.000+01:00",
-    "to": "2023-01-05T22:00:00.000+01:00",
-    "consumption": 3.23,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-20 01:00",
+    "Til": "2023-01-20 02:00",
+    "KWH60Forbruk": 1.23,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-05T22:00:00.000+01:00",
-    "to": "2023-01-05T23:00:00.000+01:00",
-    "consumption": 4.816,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-20 02:00",
+    "Til": "2023-01-20 03:00",
+    "KWH60Forbruk": 1.127,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-05T23:00:00.000+01:00",
-    "to": "2023-01-06T00:00:00.000+01:00",
-    "consumption": 4.625,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-20 03:00",
+    "Til": "2023-01-20 04:00",
+    "KWH60Forbruk": 1.087,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-06T00:00:00.000+01:00",
-    "to": "2023-01-06T01:00:00.000+01:00",
-    "consumption": 3.643,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-20 04:00",
+    "Til": "2023-01-20 05:00",
+    "KWH60Forbruk": 1.213,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-06T01:00:00.000+01:00",
-    "to": "2023-01-06T02:00:00.000+01:00",
-    "consumption": 3.251,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-20 05:00",
+    "Til": "2023-01-20 06:00",
+    "KWH60Forbruk": 0.912,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-06T02:00:00.000+01:00",
-    "to": "2023-01-06T03:00:00.000+01:00",
-    "consumption": 6.621,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-20 06:00",
+    "Til": "2023-01-20 07:00",
+    "KWH60Forbruk": 1.353,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-06T03:00:00.000+01:00",
-    "to": "2023-01-06T04:00:00.000+01:00",
-    "consumption": 5.161,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-20 07:00",
+    "Til": "2023-01-20 08:00",
+    "KWH60Forbruk": 0.961,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-06T04:00:00.000+01:00",
-    "to": "2023-01-06T05:00:00.000+01:00",
-    "consumption": 4.482,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-20 08:00",
+    "Til": "2023-01-20 09:00",
+    "KWH60Forbruk": 1.125,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-06T05:00:00.000+01:00",
-    "to": "2023-01-06T06:00:00.000+01:00",
-    "consumption": 4.502,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-20 09:00",
+    "Til": "2023-01-20 10:00",
+    "KWH60Forbruk": 1.167,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-06T06:00:00.000+01:00",
-    "to": "2023-01-06T07:00:00.000+01:00",
-    "consumption": 4.706,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-20 10:00",
+    "Til": "2023-01-20 11:00",
+    "KWH60Forbruk": 1.439,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-06T07:00:00.000+01:00",
-    "to": "2023-01-06T08:00:00.000+01:00",
-    "consumption": 4.836,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-20 11:00",
+    "Til": "2023-01-20 12:00",
+    "KWH60Forbruk": 1.186,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-06T08:00:00.000+01:00",
-    "to": "2023-01-06T09:00:00.000+01:00",
-    "consumption": 4.819,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-20 12:00",
+    "Til": "2023-01-20 13:00",
+    "KWH60Forbruk": 0.74,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-06T09:00:00.000+01:00",
-    "to": "2023-01-06T10:00:00.000+01:00",
-    "consumption": 6.405,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-20 13:00",
+    "Til": "2023-01-20 14:00",
+    "KWH60Forbruk": 1.138,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-06T10:00:00.000+01:00",
-    "to": "2023-01-06T11:00:00.000+01:00",
-    "consumption": 3.855,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-20 14:00",
+    "Til": "2023-01-20 15:00",
+    "KWH60Forbruk": 0.852,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-06T11:00:00.000+01:00",
-    "to": "2023-01-06T12:00:00.000+01:00",
-    "consumption": 3.627,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-20 15:00",
+    "Til": "2023-01-20 16:00",
+    "KWH60Forbruk": 0.582,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-06T12:00:00.000+01:00",
-    "to": "2023-01-06T13:00:00.000+01:00",
-    "consumption": 3.726,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-20 16:00",
+    "Til": "2023-01-20 17:00",
+    "KWH60Forbruk": 0.87,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-06T13:00:00.000+01:00",
-    "to": "2023-01-06T14:00:00.000+01:00",
-    "consumption": 3.588,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-20 17:00",
+    "Til": "2023-01-20 18:00",
+    "KWH60Forbruk": 1.318,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-06T14:00:00.000+01:00",
-    "to": "2023-01-06T15:00:00.000+01:00",
-    "consumption": 3.571,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-20 18:00",
+    "Til": "2023-01-20 19:00",
+    "KWH60Forbruk": 1.133,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-06T15:00:00.000+01:00",
-    "to": "2023-01-06T16:00:00.000+01:00",
-    "consumption": 3.459,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-20 19:00",
+    "Til": "2023-01-20 20:00",
+    "KWH60Forbruk": 1.217,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-06T16:00:00.000+01:00",
-    "to": "2023-01-06T17:00:00.000+01:00",
-    "consumption": 3.568,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-20 20:00",
+    "Til": "2023-01-20 21:00",
+    "KWH60Forbruk": 1.036,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-06T17:00:00.000+01:00",
-    "to": "2023-01-06T18:00:00.000+01:00",
-    "consumption": 2.877,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-20 21:00",
+    "Til": "2023-01-20 22:00",
+    "KWH60Forbruk": 0.771,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-06T18:00:00.000+01:00",
-    "to": "2023-01-06T19:00:00.000+01:00",
-    "consumption": 2.901,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-20 22:00",
+    "Til": "2023-01-20 23:00",
+    "KWH60Forbruk": 0.799,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-06T19:00:00.000+01:00",
-    "to": "2023-01-06T20:00:00.000+01:00",
-    "consumption": 3.546,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-20 23:00",
+    "Til": "2023-01-21 00:00",
+    "KWH60Forbruk": 1.063,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-06T20:00:00.000+01:00",
-    "to": "2023-01-06T21:00:00.000+01:00",
-    "consumption": 3.776,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-21 00:00",
+    "Til": "2023-01-21 01:00",
+    "KWH60Forbruk": 0.678,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-06T21:00:00.000+01:00",
-    "to": "2023-01-06T22:00:00.000+01:00",
-    "consumption": 3.307,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-21 01:00",
+    "Til": "2023-01-21 02:00",
+    "KWH60Forbruk": 0.579,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-06T22:00:00.000+01:00",
-    "to": "2023-01-06T23:00:00.000+01:00",
-    "consumption": 4.124,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-21 02:00",
+    "Til": "2023-01-21 03:00",
+    "KWH60Forbruk": 0.889,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-06T23:00:00.000+01:00",
-    "to": "2023-01-07T00:00:00.000+01:00",
-    "consumption": 3.304,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-21 03:00",
+    "Til": "2023-01-21 04:00",
+    "KWH60Forbruk": 0.828,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-07T00:00:00.000+01:00",
-    "to": "2023-01-07T01:00:00.000+01:00",
-    "consumption": 3.452,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-21 04:00",
+    "Til": "2023-01-21 05:00",
+    "KWH60Forbruk": 0.578,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-07T01:00:00.000+01:00",
-    "to": "2023-01-07T02:00:00.000+01:00",
-    "consumption": 3.065,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-21 05:00",
+    "Til": "2023-01-21 06:00",
+    "KWH60Forbruk": 0.609,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-07T02:00:00.000+01:00",
-    "to": "2023-01-07T03:00:00.000+01:00",
-    "consumption": 3.145,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-21 06:00",
+    "Til": "2023-01-21 07:00",
+    "KWH60Forbruk": 0.551,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-07T03:00:00.000+01:00",
-    "to": "2023-01-07T04:00:00.000+01:00",
-    "consumption": 5.121,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-21 07:00",
+    "Til": "2023-01-21 08:00",
+    "KWH60Forbruk": 0.604,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-07T04:00:00.000+01:00",
-    "to": "2023-01-07T05:00:00.000+01:00",
-    "consumption": 4.083,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-21 08:00",
+    "Til": "2023-01-21 09:00",
+    "KWH60Forbruk": 0.602,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-07T05:00:00.000+01:00",
-    "to": "2023-01-07T06:00:00.000+01:00",
-    "consumption": 3.522,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-21 09:00",
+    "Til": "2023-01-21 10:00",
+    "KWH60Forbruk": 0.558,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-07T06:00:00.000+01:00",
-    "to": "2023-01-07T07:00:00.000+01:00",
-    "consumption": 3.738,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-21 10:00",
+    "Til": "2023-01-21 11:00",
+    "KWH60Forbruk": 0.822,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-07T07:00:00.000+01:00",
-    "to": "2023-01-07T08:00:00.000+01:00",
-    "consumption": 3.825,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-21 11:00",
+    "Til": "2023-01-21 12:00",
+    "KWH60Forbruk": 1.266,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-07T08:00:00.000+01:00",
-    "to": "2023-01-07T09:00:00.000+01:00",
-    "consumption": 3.688,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-21 12:00",
+    "Til": "2023-01-21 13:00",
+    "KWH60Forbruk": 1.606,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-07T09:00:00.000+01:00",
-    "to": "2023-01-07T10:00:00.000+01:00",
-    "consumption": 3.054,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-21 13:00",
+    "Til": "2023-01-21 14:00",
+    "KWH60Forbruk": 1.349,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-07T10:00:00.000+01:00",
-    "to": "2023-01-07T11:00:00.000+01:00",
-    "consumption": 2.635,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-21 14:00",
+    "Til": "2023-01-21 15:00",
+    "KWH60Forbruk": 0.878,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-07T11:00:00.000+01:00",
-    "to": "2023-01-07T12:00:00.000+01:00",
-    "consumption": 7.742,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-21 15:00",
+    "Til": "2023-01-21 16:00",
+    "KWH60Forbruk": 0.864,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-07T12:00:00.000+01:00",
-    "to": "2023-01-07T13:00:00.000+01:00",
-    "consumption": 4.579,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-21 16:00",
+    "Til": "2023-01-21 17:00",
+    "KWH60Forbruk": 0.917,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-07T13:00:00.000+01:00",
-    "to": "2023-01-07T14:00:00.000+01:00",
-    "consumption": 2.831,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-21 17:00",
+    "Til": "2023-01-21 18:00",
+    "KWH60Forbruk": 1.257,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-07T14:00:00.000+01:00",
-    "to": "2023-01-07T15:00:00.000+01:00",
-    "consumption": 2.397,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-21 18:00",
+    "Til": "2023-01-21 19:00",
+    "KWH60Forbruk": 1.86,
+    "Kvalitet": "Avlest"
   },
   {
-    "from": "2023-01-07T15:00:00.000+01:00",
-    "to": "2023-01-07T16:00:00.000+01:00",
-    "consumption": 3.424,
-    "consumptionUnit": "kWh"
+    "Fra": "2023-01-21 19:00",
+    "Til": "2023-01-21 20:00",
+    "KWH60Forbruk": 0.99,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-21 20:00",
+    "Til": "2023-01-21 21:00",
+    "KWH60Forbruk": 1.216,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-21 21:00",
+    "Til": "2023-01-21 22:00",
+    "KWH60Forbruk": 1.198,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-21 22:00",
+    "Til": "2023-01-21 23:00",
+    "KWH60Forbruk": 1.03,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-21 23:00",
+    "Til": "2023-01-22 00:00",
+    "KWH60Forbruk": 1.123,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-22 00:00",
+    "Til": "2023-01-22 01:00",
+    "KWH60Forbruk": 1.052,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-22 01:00",
+    "Til": "2023-01-22 02:00",
+    "KWH60Forbruk": 0.753,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-22 02:00",
+    "Til": "2023-01-22 03:00",
+    "KWH60Forbruk": 0.59,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-22 03:00",
+    "Til": "2023-01-22 04:00",
+    "KWH60Forbruk": 0.629,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-22 04:00",
+    "Til": "2023-01-22 05:00",
+    "KWH60Forbruk": 0.578,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-22 05:00",
+    "Til": "2023-01-22 06:00",
+    "KWH60Forbruk": 0.631,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-22 06:00",
+    "Til": "2023-01-22 07:00",
+    "KWH60Forbruk": 0.576,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-22 07:00",
+    "Til": "2023-01-22 08:00",
+    "KWH60Forbruk": 0.626,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-22 08:00",
+    "Til": "2023-01-22 09:00",
+    "KWH60Forbruk": 0.575,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-22 09:00",
+    "Til": "2023-01-22 10:00",
+    "KWH60Forbruk": 0.628,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-22 10:00",
+    "Til": "2023-01-22 11:00",
+    "KWH60Forbruk": 0.594,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-22 11:00",
+    "Til": "2023-01-22 12:00",
+    "KWH60Forbruk": 0.627,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-22 12:00",
+    "Til": "2023-01-22 13:00",
+    "KWH60Forbruk": 1.132,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-22 13:00",
+    "Til": "2023-01-22 14:00",
+    "KWH60Forbruk": 3.051,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-22 14:00",
+    "Til": "2023-01-22 15:00",
+    "KWH60Forbruk": 2.054,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-22 15:00",
+    "Til": "2023-01-22 16:00",
+    "KWH60Forbruk": 0.997,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-22 16:00",
+    "Til": "2023-01-22 17:00",
+    "KWH60Forbruk": 1.067,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-22 17:00",
+    "Til": "2023-01-22 18:00",
+    "KWH60Forbruk": 3.811,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-22 18:00",
+    "Til": "2023-01-22 19:00",
+    "KWH60Forbruk": 1.551,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-22 19:00",
+    "Til": "2023-01-22 20:00",
+    "KWH60Forbruk": 1.044,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-22 20:00",
+    "Til": "2023-01-22 21:00",
+    "KWH60Forbruk": 1.547,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-22 21:00",
+    "Til": "2023-01-22 22:00",
+    "KWH60Forbruk": 1.382,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-22 22:00",
+    "Til": "2023-01-22 23:00",
+    "KWH60Forbruk": 0.897,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-22 23:00",
+    "Til": "2023-01-23 00:00",
+    "KWH60Forbruk": 0.537,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-23 00:00",
+    "Til": "2023-01-23 01:00",
+    "KWH60Forbruk": 0.647,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-23 01:00",
+    "Til": "2023-01-23 02:00",
+    "KWH60Forbruk": 0.591,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-23 02:00",
+    "Til": "2023-01-23 03:00",
+    "KWH60Forbruk": 0.571,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-23 03:00",
+    "Til": "2023-01-23 04:00",
+    "KWH60Forbruk": 0.63,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-23 04:00",
+    "Til": "2023-01-23 05:00",
+    "KWH60Forbruk": 0.742,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-23 05:00",
+    "Til": "2023-01-23 06:00",
+    "KWH60Forbruk": 0.738,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-23 06:00",
+    "Til": "2023-01-23 07:00",
+    "KWH60Forbruk": 0.679,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-23 07:00",
+    "Til": "2023-01-23 08:00",
+    "KWH60Forbruk": 0.621,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-23 08:00",
+    "Til": "2023-01-23 09:00",
+    "KWH60Forbruk": 0.738,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-23 09:00",
+    "Til": "2023-01-23 10:00",
+    "KWH60Forbruk": 0.869,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-23 10:00",
+    "Til": "2023-01-23 11:00",
+    "KWH60Forbruk": 0.738,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-23 11:00",
+    "Til": "2023-01-23 12:00",
+    "KWH60Forbruk": 0.863,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-23 12:00",
+    "Til": "2023-01-23 13:00",
+    "KWH60Forbruk": 0.655,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-23 13:00",
+    "Til": "2023-01-23 14:00",
+    "KWH60Forbruk": 0.716,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-23 14:00",
+    "Til": "2023-01-23 15:00",
+    "KWH60Forbruk": 0.655,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-23 15:00",
+    "Til": "2023-01-23 16:00",
+    "KWH60Forbruk": 0.913,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-23 16:00",
+    "Til": "2023-01-23 17:00",
+    "KWH60Forbruk": 0.861,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-23 17:00",
+    "Til": "2023-01-23 18:00",
+    "KWH60Forbruk": 1.334,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-23 18:00",
+    "Til": "2023-01-23 19:00",
+    "KWH60Forbruk": 1.241,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-23 19:00",
+    "Til": "2023-01-23 20:00",
+    "KWH60Forbruk": 1.317,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-23 20:00",
+    "Til": "2023-01-23 21:00",
+    "KWH60Forbruk": 1.081,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-23 21:00",
+    "Til": "2023-01-23 22:00",
+    "KWH60Forbruk": 1.074,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-23 22:00",
+    "Til": "2023-01-23 23:00",
+    "KWH60Forbruk": 1.001,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-23 23:00",
+    "Til": "2023-01-24 00:00",
+    "KWH60Forbruk": 0.644,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-24 00:00",
+    "Til": "2023-01-24 01:00",
+    "KWH60Forbruk": 0.428,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-24 01:00",
+    "Til": "2023-01-24 02:00",
+    "KWH60Forbruk": 0.501,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-24 02:00",
+    "Til": "2023-01-24 03:00",
+    "KWH60Forbruk": 0.487,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-24 03:00",
+    "Til": "2023-01-24 04:00",
+    "KWH60Forbruk": 0.43,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-24 04:00",
+    "Til": "2023-01-24 05:00",
+    "KWH60Forbruk": 0.603,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-24 05:00",
+    "Til": "2023-01-24 06:00",
+    "KWH60Forbruk": 0.47,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-24 06:00",
+    "Til": "2023-01-24 07:00",
+    "KWH60Forbruk": 0.548,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-24 07:00",
+    "Til": "2023-01-24 08:00",
+    "KWH60Forbruk": 0.647,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-24 08:00",
+    "Til": "2023-01-24 09:00",
+    "KWH60Forbruk": 0.524,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-24 09:00",
+    "Til": "2023-01-24 10:00",
+    "KWH60Forbruk": 0.517,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-24 10:00",
+    "Til": "2023-01-24 11:00",
+    "KWH60Forbruk": 0.517,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-24 11:00",
+    "Til": "2023-01-24 12:00",
+    "KWH60Forbruk": 0.496,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-24 12:00",
+    "Til": "2023-01-24 13:00",
+    "KWH60Forbruk": 0.477,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-24 13:00",
+    "Til": "2023-01-24 14:00",
+    "KWH60Forbruk": 0.525,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-24 14:00",
+    "Til": "2023-01-24 15:00",
+    "KWH60Forbruk": 0.495,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-24 15:00",
+    "Til": "2023-01-24 16:00",
+    "KWH60Forbruk": 0.491,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-24 16:00",
+    "Til": "2023-01-24 17:00",
+    "KWH60Forbruk": 1.305,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-24 17:00",
+    "Til": "2023-01-24 18:00",
+    "KWH60Forbruk": 0.635,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-24 18:00",
+    "Til": "2023-01-24 19:00",
+    "KWH60Forbruk": 0.73,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-24 19:00",
+    "Til": "2023-01-24 20:00",
+    "KWH60Forbruk": 1.042,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-24 20:00",
+    "Til": "2023-01-24 21:00",
+    "KWH60Forbruk": 0.83,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-24 21:00",
+    "Til": "2023-01-24 22:00",
+    "KWH60Forbruk": 0.965,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-24 22:00",
+    "Til": "2023-01-24 23:00",
+    "KWH60Forbruk": 1.201,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-24 23:00",
+    "Til": "2023-01-25 00:00",
+    "KWH60Forbruk": 0.831,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-25 00:00",
+    "Til": "2023-01-25 01:00",
+    "KWH60Forbruk": 0.558,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-25 01:00",
+    "Til": "2023-01-25 02:00",
+    "KWH60Forbruk": 0.523,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-25 02:00",
+    "Til": "2023-01-25 03:00",
+    "KWH60Forbruk": 0.483,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-25 03:00",
+    "Til": "2023-01-25 04:00",
+    "KWH60Forbruk": 0.508,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-25 04:00",
+    "Til": "2023-01-25 05:00",
+    "KWH60Forbruk": 0.518,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-25 05:00",
+    "Til": "2023-01-25 06:00",
+    "KWH60Forbruk": 0.447,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-25 06:00",
+    "Til": "2023-01-25 07:00",
+    "KWH60Forbruk": 0.539,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-25 07:00",
+    "Til": "2023-01-25 08:00",
+    "KWH60Forbruk": 0.644,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-25 08:00",
+    "Til": "2023-01-25 09:00",
+    "KWH60Forbruk": 0.401,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-25 09:00",
+    "Til": "2023-01-25 10:00",
+    "KWH60Forbruk": 0.499,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-25 10:00",
+    "Til": "2023-01-25 11:00",
+    "KWH60Forbruk": 0.455,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-25 11:00",
+    "Til": "2023-01-25 12:00",
+    "KWH60Forbruk": 0.438,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-25 12:00",
+    "Til": "2023-01-25 13:00",
+    "KWH60Forbruk": 0.567,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-25 13:00",
+    "Til": "2023-01-25 14:00",
+    "KWH60Forbruk": 0.444,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-25 14:00",
+    "Til": "2023-01-25 15:00",
+    "KWH60Forbruk": 0.512,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-25 15:00",
+    "Til": "2023-01-25 16:00",
+    "KWH60Forbruk": 0.489,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-25 16:00",
+    "Til": "2023-01-25 17:00",
+    "KWH60Forbruk": 0.786,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-25 17:00",
+    "Til": "2023-01-25 18:00",
+    "KWH60Forbruk": 2.128,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-25 18:00",
+    "Til": "2023-01-25 19:00",
+    "KWH60Forbruk": 1.03,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-25 19:00",
+    "Til": "2023-01-25 20:00",
+    "KWH60Forbruk": 1.211,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-25 20:00",
+    "Til": "2023-01-25 21:00",
+    "KWH60Forbruk": 1.713,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-25 21:00",
+    "Til": "2023-01-25 22:00",
+    "KWH60Forbruk": 1.395,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-25 22:00",
+    "Til": "2023-01-25 23:00",
+    "KWH60Forbruk": 1.32,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-25 23:00",
+    "Til": "2023-01-26 00:00",
+    "KWH60Forbruk": 0.933,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-26 00:00",
+    "Til": "2023-01-26 01:00",
+    "KWH60Forbruk": 0.647,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-26 01:00",
+    "Til": "2023-01-26 02:00",
+    "KWH60Forbruk": 0.727,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-26 02:00",
+    "Til": "2023-01-26 03:00",
+    "KWH60Forbruk": 0.653,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-26 03:00",
+    "Til": "2023-01-26 04:00",
+    "KWH60Forbruk": 0.681,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-26 04:00",
+    "Til": "2023-01-26 05:00",
+    "KWH60Forbruk": 0.744,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-26 05:00",
+    "Til": "2023-01-26 06:00",
+    "KWH60Forbruk": 0.704,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-26 06:00",
+    "Til": "2023-01-26 07:00",
+    "KWH60Forbruk": 0.741,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-26 07:00",
+    "Til": "2023-01-26 08:00",
+    "KWH60Forbruk": 0.724,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-26 08:00",
+    "Til": "2023-01-26 09:00",
+    "KWH60Forbruk": 0.677,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-26 09:00",
+    "Til": "2023-01-26 10:00",
+    "KWH60Forbruk": 0.642,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-26 10:00",
+    "Til": "2023-01-26 11:00",
+    "KWH60Forbruk": 0.852,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-26 11:00",
+    "Til": "2023-01-26 12:00",
+    "KWH60Forbruk": 0.675,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-26 12:00",
+    "Til": "2023-01-26 13:00",
+    "KWH60Forbruk": 0.686,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-26 13:00",
+    "Til": "2023-01-26 14:00",
+    "KWH60Forbruk": 0.707,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-26 14:00",
+    "Til": "2023-01-26 15:00",
+    "KWH60Forbruk": 0.658,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-26 15:00",
+    "Til": "2023-01-26 16:00",
+    "KWH60Forbruk": 0.704,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-26 16:00",
+    "Til": "2023-01-26 17:00",
+    "KWH60Forbruk": 0.707,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-26 17:00",
+    "Til": "2023-01-26 18:00",
+    "KWH60Forbruk": 0.741,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-26 18:00",
+    "Til": "2023-01-26 19:00",
+    "KWH60Forbruk": 1.281,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-26 19:00",
+    "Til": "2023-01-26 20:00",
+    "KWH60Forbruk": 1.788,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-26 20:00",
+    "Til": "2023-01-26 21:00",
+    "KWH60Forbruk": 1.062,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-26 21:00",
+    "Til": "2023-01-26 22:00",
+    "KWH60Forbruk": 1.184,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-26 22:00",
+    "Til": "2023-01-26 23:00",
+    "KWH60Forbruk": 1.484,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-26 23:00",
+    "Til": "2023-01-27 00:00",
+    "KWH60Forbruk": 0.918,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-27 00:00",
+    "Til": "2023-01-27 01:00",
+    "KWH60Forbruk": 0.851,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-27 01:00",
+    "Til": "2023-01-27 02:00",
+    "KWH60Forbruk": 0.964,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-27 02:00",
+    "Til": "2023-01-27 03:00",
+    "KWH60Forbruk": 0.588,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-27 03:00",
+    "Til": "2023-01-27 04:00",
+    "KWH60Forbruk": 0.659,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-27 04:00",
+    "Til": "2023-01-27 05:00",
+    "KWH60Forbruk": 0.599,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-27 05:00",
+    "Til": "2023-01-27 06:00",
+    "KWH60Forbruk": 0.594,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-27 06:00",
+    "Til": "2023-01-27 07:00",
+    "KWH60Forbruk": 0.735,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-27 07:00",
+    "Til": "2023-01-27 08:00",
+    "KWH60Forbruk": 0.583,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-27 08:00",
+    "Til": "2023-01-27 09:00",
+    "KWH60Forbruk": 0.844,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-27 09:00",
+    "Til": "2023-01-27 10:00",
+    "KWH60Forbruk": 0.914,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-27 10:00",
+    "Til": "2023-01-27 11:00",
+    "KWH60Forbruk": 0.585,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-27 11:00",
+    "Til": "2023-01-27 12:00",
+    "KWH60Forbruk": 0.636,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-27 12:00",
+    "Til": "2023-01-27 13:00",
+    "KWH60Forbruk": 0.637,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-27 13:00",
+    "Til": "2023-01-27 14:00",
+    "KWH60Forbruk": 0.596,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-27 14:00",
+    "Til": "2023-01-27 15:00",
+    "KWH60Forbruk": 0.66,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-27 15:00",
+    "Til": "2023-01-27 16:00",
+    "KWH60Forbruk": 0.624,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-27 16:00",
+    "Til": "2023-01-27 17:00",
+    "KWH60Forbruk": 0.594,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-27 17:00",
+    "Til": "2023-01-27 18:00",
+    "KWH60Forbruk": 0.901,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-27 18:00",
+    "Til": "2023-01-27 19:00",
+    "KWH60Forbruk": 0.844,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-27 19:00",
+    "Til": "2023-01-27 20:00",
+    "KWH60Forbruk": 1.824,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-27 20:00",
+    "Til": "2023-01-27 21:00",
+    "KWH60Forbruk": 1.108,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-27 21:00",
+    "Til": "2023-01-27 22:00",
+    "KWH60Forbruk": 1.046,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-27 22:00",
+    "Til": "2023-01-27 23:00",
+    "KWH60Forbruk": 0.999,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-27 23:00",
+    "Til": "2023-01-28 00:00",
+    "KWH60Forbruk": 0.783,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-28 00:00",
+    "Til": "2023-01-28 01:00",
+    "KWH60Forbruk": 0.663,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-28 01:00",
+    "Til": "2023-01-28 02:00",
+    "KWH60Forbruk": 0.646,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-28 02:00",
+    "Til": "2023-01-28 03:00",
+    "KWH60Forbruk": 0.688,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-28 03:00",
+    "Til": "2023-01-28 04:00",
+    "KWH60Forbruk": 0.599,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-28 04:00",
+    "Til": "2023-01-28 05:00",
+    "KWH60Forbruk": 0.65,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-28 05:00",
+    "Til": "2023-01-28 06:00",
+    "KWH60Forbruk": 0.72,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-28 06:00",
+    "Til": "2023-01-28 07:00",
+    "KWH60Forbruk": 0.638,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-28 07:00",
+    "Til": "2023-01-28 08:00",
+    "KWH60Forbruk": 0.652,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-28 08:00",
+    "Til": "2023-01-28 09:00",
+    "KWH60Forbruk": 0.714,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-28 09:00",
+    "Til": "2023-01-28 10:00",
+    "KWH60Forbruk": 0.651,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-28 10:00",
+    "Til": "2023-01-28 11:00",
+    "KWH60Forbruk": 0.79,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-28 11:00",
+    "Til": "2023-01-28 12:00",
+    "KWH60Forbruk": 1.158,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-28 12:00",
+    "Til": "2023-01-28 13:00",
+    "KWH60Forbruk": 0.827,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-28 13:00",
+    "Til": "2023-01-28 14:00",
+    "KWH60Forbruk": 0.765,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-28 14:00",
+    "Til": "2023-01-28 15:00",
+    "KWH60Forbruk": 0.909,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-28 15:00",
+    "Til": "2023-01-28 16:00",
+    "KWH60Forbruk": 0.779,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-28 16:00",
+    "Til": "2023-01-28 17:00",
+    "KWH60Forbruk": 0.843,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-28 17:00",
+    "Til": "2023-01-28 18:00",
+    "KWH60Forbruk": 0.625,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-28 18:00",
+    "Til": "2023-01-28 19:00",
+    "KWH60Forbruk": 0.718,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-28 19:00",
+    "Til": "2023-01-28 20:00",
+    "KWH60Forbruk": 0.854,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-28 20:00",
+    "Til": "2023-01-28 21:00",
+    "KWH60Forbruk": 0.909,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-28 21:00",
+    "Til": "2023-01-28 22:00",
+    "KWH60Forbruk": 0.877,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-28 22:00",
+    "Til": "2023-01-28 23:00",
+    "KWH60Forbruk": 0.814,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-28 23:00",
+    "Til": "2023-01-29 00:00",
+    "KWH60Forbruk": 0.995,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-29 00:00",
+    "Til": "2023-01-29 01:00",
+    "KWH60Forbruk": 0.65,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-29 01:00",
+    "Til": "2023-01-29 02:00",
+    "KWH60Forbruk": 0.648,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-29 02:00",
+    "Til": "2023-01-29 03:00",
+    "KWH60Forbruk": 0.496,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-29 03:00",
+    "Til": "2023-01-29 04:00",
+    "KWH60Forbruk": 0.452,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-29 04:00",
+    "Til": "2023-01-29 05:00",
+    "KWH60Forbruk": 0.511,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-29 05:00",
+    "Til": "2023-01-29 06:00",
+    "KWH60Forbruk": 0.429,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-29 06:00",
+    "Til": "2023-01-29 07:00",
+    "KWH60Forbruk": 0.533,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-29 07:00",
+    "Til": "2023-01-29 08:00",
+    "KWH60Forbruk": 0.51,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-29 08:00",
+    "Til": "2023-01-29 09:00",
+    "KWH60Forbruk": 0.549,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-29 09:00",
+    "Til": "2023-01-29 10:00",
+    "KWH60Forbruk": 0.962,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-29 10:00",
+    "Til": "2023-01-29 11:00",
+    "KWH60Forbruk": 0.829,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-29 11:00",
+    "Til": "2023-01-29 12:00",
+    "KWH60Forbruk": 0.684,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-29 12:00",
+    "Til": "2023-01-29 13:00",
+    "KWH60Forbruk": 0.784,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-29 13:00",
+    "Til": "2023-01-29 14:00",
+    "KWH60Forbruk": 1.019,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-29 14:00",
+    "Til": "2023-01-29 15:00",
+    "KWH60Forbruk": 0.636,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-29 15:00",
+    "Til": "2023-01-29 16:00",
+    "KWH60Forbruk": 0.988,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-29 16:00",
+    "Til": "2023-01-29 17:00",
+    "KWH60Forbruk": 1.062,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-29 17:00",
+    "Til": "2023-01-29 18:00",
+    "KWH60Forbruk": 1.228,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-29 18:00",
+    "Til": "2023-01-29 19:00",
+    "KWH60Forbruk": 0.877,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-29 19:00",
+    "Til": "2023-01-29 20:00",
+    "KWH60Forbruk": 0.867,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-29 20:00",
+    "Til": "2023-01-29 21:00",
+    "KWH60Forbruk": 1.042,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-29 21:00",
+    "Til": "2023-01-29 22:00",
+    "KWH60Forbruk": 1.121,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-29 22:00",
+    "Til": "2023-01-29 23:00",
+    "KWH60Forbruk": 1.027,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-29 23:00",
+    "Til": "2023-01-30 00:00",
+    "KWH60Forbruk": 0.874,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-30 00:00",
+    "Til": "2023-01-30 01:00",
+    "KWH60Forbruk": 0.721,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-30 01:00",
+    "Til": "2023-01-30 02:00",
+    "KWH60Forbruk": 0.54,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-30 02:00",
+    "Til": "2023-01-30 03:00",
+    "KWH60Forbruk": 0.519,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-30 03:00",
+    "Til": "2023-01-30 04:00",
+    "KWH60Forbruk": 0.567,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-30 04:00",
+    "Til": "2023-01-30 05:00",
+    "KWH60Forbruk": 0.603,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-30 05:00",
+    "Til": "2023-01-30 06:00",
+    "KWH60Forbruk": 0.593,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-30 06:00",
+    "Til": "2023-01-30 07:00",
+    "KWH60Forbruk": 0.664,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-30 07:00",
+    "Til": "2023-01-30 08:00",
+    "KWH60Forbruk": 0.608,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-30 08:00",
+    "Til": "2023-01-30 09:00",
+    "KWH60Forbruk": 0.65,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-30 09:00",
+    "Til": "2023-01-30 10:00",
+    "KWH60Forbruk": 0.663,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-30 10:00",
+    "Til": "2023-01-30 11:00",
+    "KWH60Forbruk": 0.726,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-30 11:00",
+    "Til": "2023-01-30 12:00",
+    "KWH60Forbruk": 0.634,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-30 12:00",
+    "Til": "2023-01-30 13:00",
+    "KWH60Forbruk": 0.579,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-30 13:00",
+    "Til": "2023-01-30 14:00",
+    "KWH60Forbruk": 0.605,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-30 14:00",
+    "Til": "2023-01-30 15:00",
+    "KWH60Forbruk": 0.643,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-30 15:00",
+    "Til": "2023-01-30 16:00",
+    "KWH60Forbruk": 0.578,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-30 16:00",
+    "Til": "2023-01-30 17:00",
+    "KWH60Forbruk": 0.618,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-30 17:00",
+    "Til": "2023-01-30 18:00",
+    "KWH60Forbruk": 1.321,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-30 18:00",
+    "Til": "2023-01-30 19:00",
+    "KWH60Forbruk": 0.859,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-30 19:00",
+    "Til": "2023-01-30 20:00",
+    "KWH60Forbruk": 0.934,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-30 20:00",
+    "Til": "2023-01-30 21:00",
+    "KWH60Forbruk": 0.939,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-30 21:00",
+    "Til": "2023-01-30 22:00",
+    "KWH60Forbruk": 0.714,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-30 22:00",
+    "Til": "2023-01-30 23:00",
+    "KWH60Forbruk": 0.796,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-30 23:00",
+    "Til": "2023-01-31 00:00",
+    "KWH60Forbruk": 0.686,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-31 00:00",
+    "Til": "2023-01-31 01:00",
+    "KWH60Forbruk": 0.649,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-31 01:00",
+    "Til": "2023-01-31 02:00",
+    "KWH60Forbruk": 0.603,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-31 02:00",
+    "Til": "2023-01-31 03:00",
+    "KWH60Forbruk": 0.961,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-31 03:00",
+    "Til": "2023-01-31 04:00",
+    "KWH60Forbruk": 0.714,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-31 04:00",
+    "Til": "2023-01-31 05:00",
+    "KWH60Forbruk": 0.589,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-31 05:00",
+    "Til": "2023-01-31 06:00",
+    "KWH60Forbruk": 1.026,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-31 06:00",
+    "Til": "2023-01-31 07:00",
+    "KWH60Forbruk": 0.776,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-31 07:00",
+    "Til": "2023-01-31 08:00",
+    "KWH60Forbruk": 1.147,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-31 08:00",
+    "Til": "2023-01-31 09:00",
+    "KWH60Forbruk": 1.031,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-31 09:00",
+    "Til": "2023-01-31 10:00",
+    "KWH60Forbruk": 0.875,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-31 10:00",
+    "Til": "2023-01-31 11:00",
+    "KWH60Forbruk": 0.928,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-31 11:00",
+    "Til": "2023-01-31 12:00",
+    "KWH60Forbruk": 0.618,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-31 12:00",
+    "Til": "2023-01-31 13:00",
+    "KWH60Forbruk": 0.936,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-31 13:00",
+    "Til": "2023-01-31 14:00",
+    "KWH60Forbruk": 0.727,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-31 14:00",
+    "Til": "2023-01-31 15:00",
+    "KWH60Forbruk": 1.497,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-31 15:00",
+    "Til": "2023-01-31 16:00",
+    "KWH60Forbruk": 1.231,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-31 16:00",
+    "Til": "2023-01-31 17:00",
+    "KWH60Forbruk": 0.684,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-31 17:00",
+    "Til": "2023-01-31 18:00",
+    "KWH60Forbruk": 1.655,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-31 18:00",
+    "Til": "2023-01-31 19:00",
+    "KWH60Forbruk": 1.284,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-31 19:00",
+    "Til": "2023-01-31 20:00",
+    "KWH60Forbruk": 0.815,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-31 20:00",
+    "Til": "2023-01-31 21:00",
+    "KWH60Forbruk": 0.994,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-31 21:00",
+    "Til": "2023-01-31 22:00",
+    "KWH60Forbruk": 0.915,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-31 22:00",
+    "Til": "2023-01-31 23:00",
+    "KWH60Forbruk": 0.836,
+    "Kvalitet": "Avlest"
+  },
+  {
+    "Fra": "2023-01-31 23:00",
+    "Til": "2023-02-01 00:00",
+    "KWH60Forbruk": 0.742,
+    "Kvalitet": "Avlest"
   }
-]
+ ]
