@@ -42,6 +42,10 @@ export function PowerUsageForm() {
         });
     };
 
+    const changeHandler2 = () => {
+        let id =  giveId()    
+        
+    }
     return (
         <div className={styles.container} >
             <input
@@ -52,8 +56,8 @@ export function PowerUsageForm() {
                 style={{ display: "block", margin: "10px auto" }}
             />
             <p>{isuploaded}</p>
-            <Link href="/consumption">
-                <button id="btn"> Gå videre til sammenligning </button>
+            <Link href={"/consumption"}>
+                <button onClick={changeHandler2} id="btn"> Gå videre til sammenligning </button>
             </Link>
         </div>
     );
