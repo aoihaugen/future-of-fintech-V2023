@@ -29,7 +29,7 @@ export function Calculations(props) {
                return (
                 <div key={i.company+i.product}>
                     <ChartCheapestFromProp  data={i} />
-                    <p>Månedsprisen for {i.product} fra {i.company}kr  er {i.monthlyFee} og spot påslaget er {i.spotAddon}kr.</p>
+                    <p>Månedsprisen for {i.product} fra {i.company}kr  er {i.monthlyFee}kr og spot påslaget er {i.spotAddon}kr.</p>
                 </div>
                )
             })
@@ -50,7 +50,7 @@ function calculateCheapestProvider(props) {
 
     
     for(let i in productData) {
-        let hourlyOfMontly = (productData[i].monthlyFee / 31.0) / 24.0;
+        let hourlyOfMontly = productData[i].monthlyFee / productData.length;
         let hourCalculations = [];
         let dayCalculations = [];
         let totalSum = 0.0;
