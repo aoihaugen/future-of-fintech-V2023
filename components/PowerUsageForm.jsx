@@ -22,7 +22,7 @@ export function PowerUsageForm() {
                 return h.replace(/\s/g, '');
             },
             complete: function (results) {
-                setIsuploaded("Laster opp, venligst vent");
+                setIsuploaded("Laster opp, vennligst vent");
                 let data = results.data
                 fetch(url, {
                     method: 'POST',
