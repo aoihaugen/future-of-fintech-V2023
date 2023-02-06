@@ -200,7 +200,7 @@ function CalculatedAfterAddon(props) {
 
     return(
     <div>
-        <h2>Med parameterene du legger inn under ville du betalt {props.totalSpotUserEntry}kr til strømselskapet i Januar.</h2>
+        <h2>Med parameterene du legger inn under ville du betalt {props.totalSpotUserEntry}kr til strømselskapet i januar.</h2>
     </div>
     )
 }

@@ -19,7 +19,7 @@ export default function Home() {
 function IndexInfo() {
   return (
     <div>
-      <h2>Nå Får du to valg for sammenligning</h2>
+      <h2>Nå får du to valg for sammenligning</h2>
       <p>Første mulighet er å bare trykke på knappen merket med Gå videre til sammenligning.</p>
       <p>Du vil da få testdata presentert for deg.</p>
       <br />
@@ -29,7 +29,7 @@ function IndexInfo() {
         <li>Logg inn på min side på <a href="https://elhub.no">elhub.no</a></li>
         <li>Gå inn på måleren du ønsker å hente data fra.</li>
         <li>Last ned brukerdata for perioden 01.01.2023 til 31.01.2023 som CSV fil.</li>
-        <li>Last opp CSV filen i boksen under og trykk på kanppen som sier Gå videre til sammenlinging.</li>
+        <li>Last opp CSV filen i boksen under og trykk på knappen som sier Gå videre til sammenligning.</li>
         <br />
         <br />
 

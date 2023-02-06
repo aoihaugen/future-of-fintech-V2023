@@ -21,15 +21,15 @@ export function Calculations(props) {
     let cheapestAdd = data[0].monthlyFee;
     return(
         <div>
-            <h2>Den billigste tilbyderen for deg i Januar ville vært {cheapestName} med produktet {productName}  </h2>
+            <h2>Den billigste tilbyderen for deg i januar ville vært {cheapestName} med produktet {productName}  </h2>
             <p>De har månedspris på {cheapestMonthly} og spot påslag på {cheapestAdd} </p>
 
-            <h3>Under vil du du se litt informasjon om tilbyderene som var med i sammenligningen.</h3>
+            <h3>Under vil du du se litt informasjon om tilbyderne som var med i sammenligningen.</h3>
             {data.map(i => {
                return (
                 <div key={i.company+i.product}>
                     <ChartCheapestFromProp  data={i} />
-                    <p>Månedsprisen for {i.product} fra {i.company}kr  er {i.monthlyFee}kr og spot påslaget er {i.spotAddon}kr.</p>
+                    <p>Månedsprisen for {i.product} fra {i.company}  er {i.monthlyFee}kr og spot påslaget er {i.spotAddon}kr.</p>
                 </div>
                )
             })
@@ -71,7 +71,7 @@ function calculateCheapestProvider(props) {
                  t += hourCalculations[i+j].priceHourly;
             }
             dayCalculations[counter] = {
-                day: counter,
+                day: counter+1,
                 price: t,
             } 
             counter++;

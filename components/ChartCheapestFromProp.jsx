@@ -14,7 +14,7 @@ export default function ChartDataFromFile(props) {
       <h3>Hvis du hadde hatt {productName} fra {name} i januar ville prisen vært {pris}kr.</h3>
       <LineChart id="123" width={1000} height={400} data={data} margin={{ top: 5, right: 30, left: 20, bottom: 5 }}>
         <XAxis dataKey="day" >
-          <Label value="Time for time" offset={-4} position="insideBottom" />
+          <Label value="Dag" offset={-4} position="insideBottom" />
         </XAxis>
         <YAxis
           label={{
