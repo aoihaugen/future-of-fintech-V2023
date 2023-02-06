@@ -91,7 +91,7 @@ function calculateCheapestProvider(props) {
 
     }
     companyPrices.sort(function (a, b) {
-        return a.monthlyFee-b.monthlyFee
+        return a.totalCostMonth-b.totalCostMonth
     }) 
     return companyPrices
 }
