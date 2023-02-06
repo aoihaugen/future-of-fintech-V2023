@@ -27,7 +27,7 @@ export function Calculations(props) {
             <h3>Under vil du du se litt informasjon om tilbyderene som var med i sammenligningen.</h3>
             {data.map(i => {
                return (
-                <div key={i}>
+                <div key={i.company+i.product}>
                     <ChartCheapestFromProp  data={i} />
                     <p>Månedsprisen for {i.product} fra {i.company}kr  er {i.monthlyFee} og spot påslaget er {i.spotAddon}kr.</p>
                 </div>
