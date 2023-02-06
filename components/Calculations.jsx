@@ -24,7 +24,7 @@ export function Calculations(props) {
             <h2>Den billigste tilbyderen for deg i januar ville vært {cheapestName} med produktet {productName}  </h2>
             <p>De har månedspris på {cheapestMonthly} og spot påslag på {cheapestAdd} </p>
 
-            <h3>Under vil du du se litt informasjon om tilbyderne som var med i sammenligningen.</h3>
+            <h3>Under vil du du se litt informasjon om tilbyderne som var med i sammenligningen. Tilbyderene er sortert i stigende rekkefølge.</h3>
             {data.map(i => {
                return (
                 <div key={i.company+i.product}>
@@ -50,7 +50,7 @@ function calculateCheapestProvider(props) {
 
     
     for(let i in productData) {
-        let hourlyOfMontly = productData[i].monthlyFee / productData.length;
+        let hourlyOfMontly = productData[i].monthlyFee / userData.length;
         let hourCalculations = [];
         let dayCalculations = [];
         let totalSum = 0.0;

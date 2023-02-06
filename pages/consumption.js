@@ -195,7 +195,7 @@ function InputSpotAndMonth(customChart) {
 }
 
 function CalculatedAfterAddon(props) {
-    console.log(props)
+
 
     return(
     <div>
