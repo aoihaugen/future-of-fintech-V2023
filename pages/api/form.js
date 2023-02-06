@@ -46,7 +46,7 @@ export default function handler(req, res) {
     // res.status(200).json({ data: 'Data received' });
 }
 
-async function dataTilSky(browserid, data) {
+async function dataTilSky(browserid, dataer) {
     let numberOfEnties = await prisma.electricUserData.count({
         where: {
             usersession: browserid,
@@ -55,26 +55,21 @@ async function dataTilSky(browserid, data) {
     if (numberOfEnties > 0) {
         console.log("Bruker har allerede data i databasen")
     } else {
-        for (let d in data) {
-            let from = fixDateToISO(data[d].Fra);
-            let to = fixDateToISO(data[d].Til);
-            let consumption = data[d].KWH60Forbruk.replace(",", ".");
-
-            // let from = data[d].Fra.split(".").reverse().join(".").replace(".","-");
-            //let to =  data[d].Til.split(".").reverse().join(".").replace(".","-");
-            await prisma.electricUserData.create({
-                data: {
-                    usersession: browserid,
-                    from: from,
-                    to: to,
-                    consumption: consumption,
-                },
-            });
+        let i =0;
+        let data =[];
+        for (let d in dataer) {
+            let from = fixDateToISO(dataer[d].Fra);
+            let to = fixDateToISO(dataer[d].Til);
+            let consumption = dataer[d].KWH60Forbruk.replace(",", ".");
+            data.push({
+                usersession: browserid,
+                from: from,
+                to: to,
+                consumption: consumption,
+            })
         }
+        await prisma.electricUserData.createMany({data});
     }
-
-
-
 }
 
 function fixDateToISO(date) {
