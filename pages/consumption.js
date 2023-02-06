@@ -2,6 +2,7 @@ import { Header } from "../components/Header";
 import { Calculations } from "../components/Calculations";
 import prisma from '../lib/prisma';
 import dynamic from "next/dynamic";
+import React, { useState } from "react";
 
 //Import of chart that is used to show how much you spent only on spot last month.
 const ChartSpotFromProp = dynamic(
@@ -18,13 +19,15 @@ const ChartSpotFromProp = dynamic(
   //Takes input as JSON object from the getServerSideProps function
 export default function Page(props) {
     let totalOnlySpot1 = Math.round(totalOnlySpot(props.userData, props.spotData));
-
+    const [customChart, setCustomChart] = useState({"monthlyFee": 0, "spotAddon": 0});  
+    
     return (
         <main>
             <Header />
             <h2>Du betalte {totalOnlySpot1}kr i spotpris forrige måned.</h2>
             <h3>Se grafen under for visuell fremsitlling av hvilken dager som var dyrest.</h3>
-            <ChartSpotFromProp props = {props} />
+            <ChartSpotFromProp props = {props} customChart = {customChart} />
+            <InputSpotAndMonth customChart = {customChart} setCustomChart = {setCustomChart} />
             <Calculations props = {props}  />
         </main>
     );
@@ -82,7 +85,6 @@ export async function getServerSideProps(context) {
           consumption: item.consumption,
         };
     });
-    // console.log(productDataTemp[0])
 
     const productData = productDataTemp.map((item) => {
         item.spotAddon = parseFloat(item.spotAddon);
@@ -134,4 +136,41 @@ export async function getServerSideProps(context) {
         totalOnlySpot += userData[i].consumption * spotData[i].no5;
     }
     return totalOnlySpot
+  }
+
+  //Creates HMTL to give user input to change chart with input felds for monthlyFee and spotAddon
+  //Is given a stage as prop and updates the stage with assigned stage update function.
+  function InputSpotAndMonth(customChart){
+    let localCustomChart = Object.assign({},customChart.customChart);
+    const monthlyFee = (event) => {
+        if(event.target.value){
+            localCustomChart ={...localCustomChart, monthlyFee: parseInt(event.target.value)};
+            customChart.setCustomChart(localCustomChart)
+        }
+        
+    }
+    const spotAddon = (event) => {
+        if(event.target.value){
+            localCustomChart.spotAddon = parseFloat(event.target.value)
+            customChart.setCustomChart(localCustomChart)
+        }
+     
+        
+    }
+
+      return (
+          <div>
+                <h4>Sett inn egne verdier for å se grafen endre seg over.</h4>
+                <label  for="monthlyFee">Månedspris:</label>
+                <input onInput={monthlyFee} type="number" id="monthlyFee" name="monthlyFee"
+                  min="0" max="100" defaultValue="0" >
+
+                </input>
+                <label for="spotAddon">Spot pris påslag i kroner. 1 øre = 0.01kr:</label>
+                <input onInput={spotAddon} type="number" id="spotAddon" name="spotAddon"
+                  min="0" max="100" defaultValue="0" >
+
+                </input>
+          </div>
+    )
   }

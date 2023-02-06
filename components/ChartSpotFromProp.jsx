@@ -1,11 +1,12 @@
 import styles from "./Chart.module.css";
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Label } from "recharts";
+import React from "react";
+
 
 //Main function for creating chart specifically for showing user data with spot price.
 export default function ChartDataFromFile(props) {
-    
-    let data = calculatePriceSpot(props.props.spotData, props.props.userData);
-
+      let data = calculatePriceSpot(props.props.spotData, props.props.userData, props.customChart);
+      
 
   return (
     <div className={styles.container}>
@@ -33,16 +34,19 @@ export default function ChartDataFromFile(props) {
 //         pricenUnit
 //
 //  This information is used in the cration of the graph with only spot price and consumption as parameters.
- function calculatePriceSpot(spotData, userData) {
+ function calculatePriceSpot(spotData, userData, customChart) {
     let priceHour =[];
     let priceDay = [];
     let monthPrice = 0.0;
     let monthConsumption = 0.0;
+    let spotAddon = customChart.spotAddon;
+    let monthlyFee = customChart.monthlyFee;
 
     for(let i in spotData){
         monthConsumption += parseFloat(userData[i].consumption)
         priceHour[i] =parseFloat(userData[i].consumption) * parseFloat(spotData[i].no5); 
-        monthPrice += parseFloat(userData[i].consumption) * parseFloat(spotData[i].no5); 
+        priceHour[i] += spotAddon + (monthlyFee/31);
+        monthPrice += priceHour[i]; 
     }
     let counter = 0;
     
