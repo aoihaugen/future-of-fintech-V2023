@@ -19,11 +19,17 @@ export function Calculations(props) {
     let productName = data[0].product;
     let cheapestMonthly = data[0].monthlyFee;
     let cheapestAdd = data[0].monthlyFee;
+    let expenciveName = data[data.length-1].company;
+    let expenciveproductName = data[data.length-1].product;
+    let cheapestTotal = data[0].totalCostMonth;
+    let expenciveTotal = data[data.length-1].totalCostMonth;
+    let difference = Math.round(expenciveTotal-cheapestTotal)
     return(
         <div>
             <h2>Den billigste tilbyderen for deg i januar ville vært {cheapestName} med produktet {productName}  </h2>
             <p>De har månedspris på {cheapestMonthly} og spot påslag på {cheapestAdd} </p>
-
+            <p>Den dyreste tilbyderen ville vært {expenciveName} med produktet {expenciveproductName}. Differansen mellom billigste og dyreste tilbyder er {difference}kr denne måneden.</p>
+            <br />
             <h3>Under vil du du se litt informasjon om tilbyderne som var med i sammenligningen. Tilbyderene er sortert i stigende rekkefølge.</h3>
             {data.map(i => {
                return (
