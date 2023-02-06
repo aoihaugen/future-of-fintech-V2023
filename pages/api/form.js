@@ -12,9 +12,7 @@ export default function handler(req, res) {
     // Get data submitted in request's body.
     let data = req.body
     let myId = parseInt(req.cookies.id);
-    //let myId = parseInt(req.headers['myid']);
-    // console.log(req.headers['myid'])
-    // console.log(req.headers)
+    // console.log(myId)
     // Optional logging to see the responses
     // in the command line where next.js app is running.
     // console.log('data: ', data)
@@ -33,17 +31,19 @@ export default function handler(req, res) {
         .then(async () => {
             await prisma.$disconnect()
             console.log('Sucsessfully disconnected')
+            res.status(200).json({ data: 'Data received' });
         })
         .catch(async (e) => {
             console.error(e)
             await prisma.$disconnect()
             console.log('Disconnected with error')
+            res.status(400).json({ data: 'Data not receiced successfully' });
             process.exit(1)
         });
     //
     // Sends a HTTP success code with comfirmation message.
     // res.status(200).json({ message: 'Mottatt data fra bruker.' })
-    res.status(200).json({ data: 'Data received' });
+    // res.status(200).json({ data: 'Data received' });
 }
 
 async function dataTilSky(browserid, data) {
