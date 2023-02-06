@@ -24,9 +24,8 @@ export default function Page(props) {
     return (
         <main>
             <Header />
-            <h2>Du betalte {totalOnlySpot1}kr til kraftselskapene forrige måned.</h2>
-            <h3>Sammen skal vi finne ut hva strømselskapet dit kostet deg forrige måned,</h3>
-            <h3>så skal vi finne ut hvilket selskap som ville vært billigst.</h3>
+            <h2>Du betalte {totalOnlySpot1}kr for strøm uten påslag forrige måned.</h2>
+            <h3>Denne tjenesten hjelper deg å visualisere forskjellen i pris mellom de forskjellige strømtilbyderne.</h3>
             <h3>Grafen under viser hva du hadde betalt uten strømselskapene.</h3>
             <ChartSpotFromProp props={props} customChart={customChart} />
             <br />
@@ -200,7 +199,7 @@ function CalculatedAfterAddon(props) {
 
     return(
     <div>
-        <h2>Med parameterene du legger inn under ville du betalt {props.totalSpotUserEntry}kr til strømselskapet i januar.</h2>
+        <h3>Med parameterene du legger inn under ville du betalt {props.totalSpotUserEntry}kr til strømselskapet i januar.</h3>
     </div>
     )
 }
