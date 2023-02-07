@@ -18,7 +18,7 @@ export function Calculations(props) {
     let cheapestName = data[0].company;
     let productName = data[0].product;
     let cheapestMonthly = data[0].monthlyFee;
-    let cheapestAdd = data[0].monthlyFee;
+    let cheapestAdd = data[0].spotAddon;
     let expenciveName = data[data.length-1].company;
     let expenciveproductName = data[data.length-1].product;
     let cheapestTotal = data[0].totalCostMonth;
